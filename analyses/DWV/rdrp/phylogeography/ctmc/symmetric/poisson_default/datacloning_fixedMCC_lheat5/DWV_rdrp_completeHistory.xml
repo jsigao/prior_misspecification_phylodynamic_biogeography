@@ -1,0 +1,885 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="POOGTB3D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB3D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGB4H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGB4D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POOGTB4D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB4D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGM5_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JATB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SHHLB4D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POOGTB5D2a_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB5D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB6D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB5Db_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB7D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JATB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMB6H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMB7H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMB8H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMM9H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MELMM10H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRMPB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GEPRB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MEOAJB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SWBDB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SWBDB4D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SWBDB5D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IRJMB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAL1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAL2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAL3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SPJM1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SPJM2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SPJM3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SPJM4D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SPJM5D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IRJMB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="OZB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="OZB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUB2D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JATB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUB3D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUB4H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="ITB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HABIL1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HABIL3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UoMMSB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UoMMSB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UoMMSB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GEPRB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMB6H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERWB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDWV_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MEXB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="TaptB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMGLB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMGLB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMGLB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMGLB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IOMGLB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="TaptP2_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="TaptP3_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SwissB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JA30SML1_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB10_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB5_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AustB11_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDB7_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDB5_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GUERDB6_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AUSTM5_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AUSTM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAYD_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAYV_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAMPB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAMPB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAMPB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAMPB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRAMPB6_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AUSTMFRE1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SHHLM1_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AUSTMAC1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AUSTMAC2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAWEV1M_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAWEV3B_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAWEV3M_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAWEV3L_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HAWEV7G_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="PA4SMB1_1998">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UOMBA_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UOMBB_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UOMBD_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UOMBE_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="UOMBF_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="OZB1H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="OZB2H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MEXA1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MEXA4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SWISSBD3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SWISSBD4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="IREJMB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="PAKEB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="PAKEB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MEXLMB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="ROMM3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRYB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRYB2D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="FRYM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB1D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="POGTB2D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JATM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGB3H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGB3D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="NZMGM3_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JATM3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="SHHLB3D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB250362_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KJ437447_2013">
+			<date value="2013" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JF440526_2008">
+			<date value="2008" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB250361_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242577_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242576_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HM067437_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="GU109335_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242594_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242591_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242590_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242589_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242575_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242573_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242572_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242571_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242570_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB070959_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JX878304_2012">
+			<date value="2012" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HM067438_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB250360_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242593_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242592_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242587_2001">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242580_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242579_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242578_1999">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242574_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242569_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242585_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242581_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="JX878305_2012">
+			<date value="2012" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB250363_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242588_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242583_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB251935_2004">
+			<date value="2004" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242584_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242586_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AB242582_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="HM162356_2009">
+			<date value="2009" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="AY292384_2000">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KC786223_2010">
+			<date value="2010" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KC786224_2010">
+			<date value="2010" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929258_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929259_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929216_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929217_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929285_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929245_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929246_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929247_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929271_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929273_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KF929272_2011">
+			<date value="2011" direction="forwards" units="years"/>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="geography.dataType">
+		<state code="A"/>
+		<state code="B"/>
+		<state code="C"/>
+		<state code="D"/>
+		<state code="E"/>
+		<state code="F"/>
+		<state code="G"/>
+	</generalDataType>
+
+	<alignment id="geography">
+	<generalDataType idref="geography.dataType"/>
+		<sequence>	<taxon idref="POOGTB3D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB3D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="NZMGB4H_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="NZMGB4D_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="POGTB4H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POOGTB4D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB4D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="NZMGM5_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="JATB4H_2009"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="SHHLB4D_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POOGTB5D2a_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB5D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB6D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB5Db_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB7D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="JATB5H_2009"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="MELMB1H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMB5H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMB6H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMB7H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMB8H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMM9H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MELMM10H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="FRMPB5H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GEPRB5H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="MEOAJB2H_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="SWBDB2H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SWBDB4D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SWBDB5D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IRJMB1H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="HAL1_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAL2_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAL3_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAM1_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="SPJM1H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SPJM2H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SPJM3H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SPJM4D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SPJM5D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IRJMB4H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="OZB3H_2009"/>	BBBBB	</sequence>
+		<sequence>	<taxon idref="OZB5H_2009"/>	BBBBB	</sequence>
+		<sequence>	<taxon idref="GUB2D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="JATB1H_2009"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="GUB3D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUB4H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUB4H2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="ITB2H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="HABIL1_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HABIL3_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="IOMB1H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMB3H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="UoMMSB1_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UoMMSB2_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UoMMSB3_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="GEPRB1H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMB6H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERM1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERWB1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDWV_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="MEXB4_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="TaptB3_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMGLB1H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMGLB2H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMGLB3H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMGLB4H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IOMGLB5H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="TaptP2_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="TaptP3_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SwissB1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="JA30SML1_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AustB10_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AustB4_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AustB1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AustB5_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AustB2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AustB11_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDB7_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDB2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDB4_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDB5_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GUERDB6_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AUSTM5_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AUSTM2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAYD_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAYV_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAMPB1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAMPB2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAMPB3_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAMPB4_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRAMPB6_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AUSTMFRE1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SHHLM1_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AUSTMAC1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AUSTMAC2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="HAWEV1M_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAWEV3B_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAWEV3M_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAWEV3L_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="HAWEV7G_2009"/>	EEEEE	</sequence>
+		<sequence>	<taxon idref="PA4SMB1_1998"/>	GGGGG	</sequence>
+		<sequence>	<taxon idref="UOMBA_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UOMBB_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UOMBD_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UOMBE_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="UOMBF_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="OZB1H2_2009"/>	BBBBB	</sequence>
+		<sequence>	<taxon idref="OZB2H2_2009"/>	BBBBB	</sequence>
+		<sequence>	<taxon idref="MEXA1_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="MEXA4_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="SWISSBD3_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="SWISSBD4_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="IREJMB1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="PAKEB2_2009"/>	GGGGG	</sequence>
+		<sequence>	<taxon idref="PAKEB3_2009"/>	GGGGG	</sequence>
+		<sequence>	<taxon idref="MEXLMB4_2009"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="ROMM3_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRYB2H_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRYB2D_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="FRYM2_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB1D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTM1_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="POGTB2D_2003"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="JATM2_2009"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="NZMGB3H_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="NZMGB3D_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="NZMGM3_2008"/>	FFFFF	</sequence>
+		<sequence>	<taxon idref="JATM3_2009"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="SHHLB3D_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AB250362_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="KJ437447_2013"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="JF440526_2008"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AB250361_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242577_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242576_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="HM067437_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="GU109335_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AB242594_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242591_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242590_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242589_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242575_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242573_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242572_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242571_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242570_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB070959_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="JX878304_2012"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="HM067438_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AB250360_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242593_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242592_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242587_2001"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242580_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242579_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242578_1999"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242574_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242569_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242585_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242581_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="JX878305_2012"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB250363_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242588_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242583_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB251935_2004"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242584_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242586_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="AB242582_2000"/>	CCCCC	</sequence>
+		<sequence>	<taxon idref="HM162356_2009"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="AY292384_2000"/>	AAAAA	</sequence>
+		<sequence>	<taxon idref="KC786223_2010"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KC786224_2010"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929258_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929259_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929216_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929217_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929285_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929245_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929246_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929247_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929271_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929273_2011"/>	DDDDD	</sequence>
+		<sequence>	<taxon idref="KF929272_2011"/>	DDDDD	</sequence>
+	</alignment>
+	<patterns id="patterns" from="1" strip="false">
+		<alignment idref="geography"/>
+	</patterns>
+
+	<newick id="startingTree" units="years" usingDates="true">
+		(((PAKEB3_2009:2.210813324,PAKEB2_2009:2.210813324):16.13385121,PA4SMB1_1998:7.344664532):29.29020101,(((((AB242585_2000:0.3034787572,AB242583_2000:0.3034787572):0.3090493576,AB242581_2000:0.6125281148):1.733858875,(AB242577_1999:0.4035038495,AB250362_2004:5.40350385):0.9428831399):4.129125568,((((AB250363_2004:0.4848174747,AB251935_2004:0.4848174747):4.581362535,(AB242587_2001:1.823272043,((POGTB6D_2003:0.6885051769,((((((HM067437_2009:0.09132255943,GU109335_2009:0.09132255943):1.097941736,(JX878305_2012:3.855706038,HM067438_2009:0.8557060384):0.3335582573):0.8010967097,JF440526_2008:0.9903610054):2.046279096,((((OZB3H_2009:0.04542051508,OZB5H_2009:0.04542051508):0.4568295389,(AustB11_2009:0.1165615714,(GUERDB5_2009:0.04254235368,AustB10_2009:0.04254235368):0.07401921776):0.3856884825):0.4815368254,(((((GUERDB4_2009:0.07300024835,((GUERM1_2009:0.04057076145,AustB5_2009:0.04057076145):0.08322990864,HABIL3_2009:0.1238006701):0.01):0.0211395573,((AUSTMFRE1_2009:0.04428255366,(HABIL1_2009:0.06123047708,(AustB4_2009:0.04512255768,GUERDB6_2009:0.04512255768):0.0161079194):0.01):0.03781596944,(GUERDB2_2009:0.05030494684,GUB3D_2009:0.05030494684):0.03179357625):0.01204128255):0.007042068441,((GUB4H2_2009:0.04551094455,GUERDWV_2009:0.04551094455):0.09419671115,GUERDB7_2009:0.1397076557):0.01):0.07122162723,((GUB2D_2009:0.04092661177,IOMB1H_2009:0.04092661177):0.1088303432,IOMB3H_2009:0.1497569549):0.02264654638):0.3005545952,((AustB1_2009:0.0470846716,AustB2_2009:0.0470846716):0.06683062524,(FRAMPB6_2009:0.2030927771,(GUB4H_2009:0.05069787515,GUERWB1_2009:0.05069787515):0.1523949019):0.01):0.3590427996):0.5108287829):1.209885621,KJ437447_2013:6.193672501):1.8429676):0.7986928955,(TaptB3_2009:3.288848567,(((FRMPB5H_2009:0.08507341846,JATB5H_2009:0.08507341846):1.067408452,((POGTM1_2009:0.2957830982,((POOGTB4D_2009:0.07214076477,POOGTB5D2a_2009:0.07214076477):0.1086966253,JX878304_2012:3.18083739):0.1149457081):0.2704413566,POOGTB3D_2009:0.5662244548):0.5862574156):1.249712935,((JATB1H_2009:0.06369366882,JATM3_2009:0.06369366882):0.3833065188,(JATB4H_2009:0.1435367548,JATM2_2009:0.1435367548):0.3034634328):1.955194617):0.8866537623):1.546484429):0.8389527312,JA30SML1_2004:0.6742857277):1.014219449):1.703498587,((POGTB1D_2003:0.2357215292,POGTB3D_2003:0.2357215292):1.470062981,(((POGTB5D_2003:0.1290458617,POGTB5Db_2003:0.1290458617):0.1477981213,POGTB2D_2003:0.276843983):0.4322519575,(POGTB7D_2003:0.1463874203,POGTB4D_2003:0.1463874203):0.5627085202):0.9966885693):0.6862192537):1.431268279):0.242907967):1.834066965,(AB070959_1999:1.421871945,((AB242584_2000:0.2124744748,AB250361_2004:4.212474475):0.5807274814,(AB242586_2000:0.1763664428,AB242582_2000:0.1763664428):0.6168355134):1.628669988):0.47837503):1.402066883,((AB242576_1999:0.2934330537,AB242575_1999:0.2934330537):3.100645467,(((((AB242572_2004:0.3151925527,(AB242588_2004:0.1665889468,AB242574_2004:0.1665889468):0.1486036059):0.3212546025,(AB242570_2004:0.1532970842,AB242569_2004:0.1532970842):0.483150071):0.7665064656,(AB242593_2004:0.4713723771,(AB250360_2004:0.2722315688,(AB242573_2004:0.14433276,AB242571_2004:0.14433276):0.1278988089):0.1991408083):0.9315812437):1.82084316,((AB242591_2004:0.1391801022,AB242590_2004:0.1391801022):0.7420776713,(AB242592_2004:0.304384478,(AB242594_2004:0.1373543637,AB242589_2004:0.1373543637):0.1670301143):0.5768732956):2.342539007):4.056387676,(AB242580_1999:1.083710685,(AB242578_1999:0.3203599714,AB242579_1999:0.3203599714):0.7633507134):1.196473773):1.113894063):0.01):2.1731987):10.91712011,(AY292384_2000:0.5674374332,((((((((((SwissB1_2009:0.06143851289,IOMGLB4H_2009:0.06143851289):0.1292811921,(UOMBB_2009:0.0517811602,SWBDB5D_2009:0.0517811602):0.1389385448):0.01,IOMGLB3H_2009:0.164077356):0.4580698064,(IOMGLB5H_2009:0.3281227833,((SWBDB4D_2009:0.05263069091,IOMGLB2H_2009:0.05263069091):0.1182924087,(IOMGLB1H_2009:0.04510852422,IRJMB1H_2009:0.04510852422):0.1258145754):0.1571996837):0.2940243792):0.4962571191,TaptP3_2008:0.1184042816):0.1982235242,TaptP2_2008:0.3166278058):0.3780422896,(HAL1_2009:0.07835824307,MEOAJB2H_2009:0.07835824307):1.616311852):1.068443378,IREJMB1_2009:2.763113473):1.48911573,(((SWBDB2H_2009:0.3324445862,SWISSBD4_2009:0.3324445862):1.141483754,IRJMB4H_2009:1.47392834):1.94109194,((((NZMGB3D_2008:0.1242142516,NZMGM3_2008:0.1242142516):0.2442209112,(GEPRB5H_2009:0.1498125574,FRYM2_2009:0.1498125574):1.218622605):1.008998825,((((AUSTMAC2_2009:0.103438762,AUSTMAC1_2009:0.103438762):0.3020864379,SPJM1H_2009:0.4055252):0.3029134369,ITB2H_2009:0.7084386368):1.004483573,(((NZMGM5_2008:0.1148935491,NZMGB4D_2008:0.1148935491):0.1243848852,NZMGB4H_2008:0.2392784343):0.2929272808,(NZMGB3H_2008:0.09780925753,GEPRB1H_2009:1.097809258):0.4343964576):0.1807164952):0.6645117774):0.4084351203,(SPJM5D_2009:1.142825734,(SPJM2H_2009:0.08597967337,SPJM3H_2009:0.08597967337):1.056846061):1.643043374):0.6291511723):0.8372089235):1.221848187,((((MEXLMB4_2009:0.851441657,UOMBA_2009:0.851441657):0.4315571473,(((OZB2H2_2009:0.05750048558,SWISSBD3_2009:0.05750048558):0.08117689478,(MEXB4_2009:0.09174713858,(OZB1H2_2009:0.04798251628,HAWEV7G_2009:0.04798251628):0.0437646223):0.04693024179):0.3941514501,((((HAWEV3L_2009:0.05335423937,HAWEV3M_2009:0.05335423937):0.05980366713,UOMBD_2009:0.1131579065):0.02586675396,HAWEV3B_2009:0.1390246605):0.1202814366,UOMBE_2009:0.259306097):0.2735227335):0.7501699738):0.399603726,((MELMB5H_2009:0.2735939757,HM162356_2009:0.2735939757):0.5438063106,((((KF929271_2011:0.2144584548,KF929273_2011:0.2144584548):0.4409139309,KF929272_2011:0.6553723857):1.587709088,MELMB1H_2009:0.2430814736):0.1364210995,(MELMB6H_2009:0.08262573426,MELMB8H_2009:0.08262573426):0.2968768388):0.4378977133):0.865202244):1.765724943,((((((KC786224_2010:0.9277164332,KC786223_2010:0.9277164332):1.262411628,SHHLB3D_2008:0.190128061):0.2136644774,SHHLB4D_2008:0.4037925384):0.5218701646,SHHLM1_2008:0.9256627029):0.01,(((HAWEV1M_2009:0.1030909694,(MEXA4_2009:0.05332097193,UoMMSB3_2009:0.05332097193):0.0497699975):0.9467606751,((AUSTM5_2009:0.1477585405,((IOMB6H_2009:0.05163213911,MEXA1_2009:0.05163213911):0.08567466628,(FRAMPB3_2009:0.07436015518,(FRYB2D_2009:0.04980554353,UoMMSB1_2009:0.04980554353):0.02455461165):0.06294665021):0.0104517351):0.03782348608,FRAYV_2009:0.1855820266):0.8642696179):0.1859869394,(((ROMM3_2009:0.167086599,(MELMB7H_2009:0.05165227484,HAM1_2009:0.05165227484):0.1154343242):0.1838169023,(POGTB4H_2009:0.3863067475,FRYB2H_2009:0.3863067475):0.01):0.1369267677,((FRAMPB2_2009:0.04725897261,MELMM10H_2009:0.04725897261):0.09250390555,FRAYD_2009:0.1397628782):0.3480673909):0.7480083149):0.2667788122):0.2185690867,(((MELMM9H_2009:0.1760409443,(FRAMPB1_2009:0.05761106458,UoMMSB2_2009:0.05761106458):0.1184298797):0.2834158666,HAL3_2009:0.4594568109):0.1037726065,(SPJM4D_2009:0.2551904146,(((HAL2_2009:0.04729288317,FRAMPB4_2009:0.04729288317):0.1226294174,(((KF929285_2011:1.447138102,(KF929245_2011:0.5641283786,(KF929247_2011:0.1809826045,KF929246_2011:0.1809826045):0.3831457741):0.8830097236):0.6030363711,AUSTM2_2009:0.05017447335):0.04759801991,((KF929259_2011:0.1845753373,KF929258_2011:0.1845753373):0.9184269974,(KF929216_2011:0.3053712196,KF929217_2011:0.3053712196):0.797631115):0.9947701586):0.07214980731):0.04598341155,UOMBF_2009:0.2159057121):0.03928470253):0.3080390028):1.157957065):1.727140991):2.025749917):4.093360043):16.82519523):21.24223287);
+	</newick>
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<strictClockBranchRates id="geography.branchRates">
+		<rate>
+			<parameter id="geography.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<generalSubstitutionModel id="geography.model">
+		<generalDataType idref="geography.dataType"/>
+		<frequencies>
+			<frequencyModel id="geography.frequencyModel" normalize="true">
+				<generalDataType idref="geography.dataType"/>
+				<frequencies>
+					<parameter id="geography.frequencies" dimension="7"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="geography.rates" dimension="21" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="geography.indicators" dimension="21" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="geography.nonZeroRates" elementwise="true">
+		<parameter idref="geography.indicators"/>
+	</sumStatistic>
+	<siteModel id="geography.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="geography.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<markovJumpsTreeLikelihood id="geography.treeLikelihood" useUniformization="true" saveCompleteHistory="true" logCompleteHistory="true" compactHistory="true">
+		<patterns idref="patterns"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="geography.siteModel"/>
+		<generalSubstitutionModel idref="geography.model"/>
+		<strictClockBranchRates idref="geography.branchRates"/>
+
+	</markovJumpsTreeLikelihood>
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="15">
+			<parameter idref="geography.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="24" scaleAllIndependently="true">
+			<parameter idref="geography.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="geography.indicators"/>
+		</bitFlipOperator>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" adaptationDelay="200000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="geography.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.693147180559945" offset="6">
+					<statistic idref="geography.nonZeroRates"/>
+				</poissonPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="geography.rates"/>
+					</gammaPrior>
+					<parameter idref="geography.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="geography.model"/>
+			</prior>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="2000" fileName="DWV_rdrp_completeHistory.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<parameter idref="geography.rates"/>
+			<parameter idref="geography.indicators"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+			<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="2000" nexusFormat="true" fileName="DWV_rdrp_completeHistory.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+		</logTree>
+		<log id="historyLogger" logEvery="2000" fileName="DWV_rdrp_completeHistory.txt">
+			<completeHistoryLogger>
+				<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+			</completeHistoryLogger>
+		</log>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>

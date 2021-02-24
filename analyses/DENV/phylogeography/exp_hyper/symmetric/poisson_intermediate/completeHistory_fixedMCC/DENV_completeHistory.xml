@@ -1,0 +1,428 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="AF425625_Nigeria_1968">
+			<date value="1968" direction="forwards" units="years"/>
+			<attr name="geography">Nigeria</attr>
+		</taxon>
+		<taxon id="JF297578_India_1971">
+			<date value="1971" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JF297579_India_1971">
+			<date value="1971" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="FJ850087_Brazil_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="FJ850077_Brazil_2003">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="FJ850070_Brazil_2000">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="GQ868601_Br.Virginisland_1985">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Br.Virginisland</attr>
+		</taxon>
+		<taxon id="AF425617_Colombia_1996">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Colombia</attr>
+		</taxon>
+		<taxon id="JF297573_India_1962">
+			<date value="1962" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="AF514878_Paraguay_1988">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">Paraguay</attr>
+		</taxon>
+		<taxon id="AF514889_Argentina_2000">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Argentina</attr>
+		</taxon>
+		<taxon id="AF425626_Peru_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Peru</attr>
+		</taxon>
+		<taxon id="JF297576_India_1963">
+			<date value="1963" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JF297575_India_1963">
+			<date value="1963" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="AY153755_Costarica_1993">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">Costarica</attr>
+		</taxon>
+		<taxon id="FJ410188_PuertoRico_1996">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PuertoRico</attr>
+		</taxon>
+		<taxon id="FJ410186_PuertoRico_1992">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">PuertoRico</attr>
+		</taxon>
+		<taxon id="AF425639_Trinidad_1986">
+			<date value="1986" direction="forwards" units="years"/>
+			<attr name="geography">Trinidad</attr>
+		</taxon>
+		<taxon id="AF226686_FrenchGuiana_1989">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">FrenchGuiana</attr>
+		</taxon>
+		<taxon id="FJ562106_PuertoRico_1986">
+			<date value="1986" direction="forwards" units="years"/>
+			<attr name="geography">PuertoRico</attr>
+		</taxon>
+		<taxon id="FJ547086_PuertoRico_1995">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">PuertoRico</attr>
+		</taxon>
+		<taxon id="GU056033_Venezuela_1998">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Venezuela</attr>
+		</taxon>
+		<taxon id="FJ384655_Brazil_1993">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="AF226685_Brazil_1990">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="AF514876_Argentina_2000">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Argentina</attr>
+		</taxon>
+		<taxon id="AF311956_Brazil_1997">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Brazil</attr>
+		</taxon>
+		<taxon id="GU131960_Mexico_1997">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Mexico</attr>
+		</taxon>
+		<taxon id="FJ639735_Venezuela_1997">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Venezuela</attr>
+		</taxon>
+		<taxon id="GQ868561_Colombia_1999">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Colombia</attr>
+		</taxon>
+		<taxon id="FJ639823_Venezuela_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Venezuela</attr>
+		</taxon>
+		<taxon id="FJ639797_Venezuela_2004">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">Venezuela</attr>
+		</taxon>
+		<taxon id="JF297583_India_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="DQ285559_Reunion_2004">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">Reunion</attr>
+		</taxon>
+		<taxon id="EU081258_Singapore_2005">
+			<date value="2005" direction="forwards" units="years"/>
+			<attr name="geography">Singapore</attr>
+		</taxon>
+		<taxon id="EU448413_India_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN903578_India_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="AY722803_Myanmar_1998">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Myanmar</attr>
+		</taxon>
+		<taxon id="AF425615_Myanmar_1976">
+			<date value="1976" direction="forwards" units="years"/>
+			<attr name="geography">Myanmar</attr>
+		</taxon>
+		<taxon id="AY713473_Myanmar_1971">
+			<date value="1971" direction="forwards" units="years"/>
+			<attr name="geography">Myanmar</attr>
+		</taxon>
+		<taxon id="JF967814_India_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="EF654104_Korea_2001">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Korea</attr>
+		</taxon>
+		<taxon id="FJ687475_Korea_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Korea</attr>
+		</taxon>
+		<taxon id="GQ357690_Singapore_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Singapore</attr>
+		</taxon>
+		<taxon id="KF289073_India_1956">
+			<date value="1956" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="EU179860_Brunei_2005">
+			<date value="2005" direction="forwards" units="years"/>
+			<attr name="geography">Brunei</attr>
+		</taxon>
+		<taxon id="JF297582_India_2005">
+			<date value="2005" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="GQ357692_Singapore_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Singapore</attr>
+		</taxon>
+		<taxon id="AY762084_Singapore_1993">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">Singapore</attr>
+		</taxon>
+		<taxon id="DQ285562_Comoros_1993">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">Comoros</attr>
+		</taxon>
+		<taxon id="JF297571_India_1962">
+			<date value="1962" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JF297580_India_1982">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="AY732476_Thailand_1980">
+			<date value="1980" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="JN903581_India_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN903579_India_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN415524_Srilanka_2004">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">Srilanka</attr>
+		</taxon>
+		<taxon id="KF289072_India_2011">
+			<date value="2011" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JF967932_India_2010">
+			<date value="2010" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN415486_India_2010">
+			<date value="2010" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JQ692085_India_2010">
+			<date value="2010" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN415507_India_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+		<taxon id="JN036371_Bangladesh_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Bangladesh</attr>
+		</taxon>
+		<taxon id="JQ917404_India_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">India</attr>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="geography.dataType">
+		<state code="Argentina"/>
+		<state code="Bangladesh"/>
+		<state code="Br.Virginisland"/>
+		<state code="Brazil"/>
+		<state code="Brunei"/>
+		<state code="Colombia"/>
+		<state code="Comoros"/>
+		<state code="Costarica"/>
+		<state code="FrenchGuiana"/>
+		<state code="India"/>
+		<state code="Korea"/>
+		<state code="Mexico"/>
+		<state code="Myanmar"/>
+		<state code="Nigeria"/>
+		<state code="Paraguay"/>
+		<state code="Peru"/>
+		<state code="PuertoRico"/>
+		<state code="Reunion"/>
+		<state code="Singapore"/>
+		<state code="Srilanka"/>
+		<state code="Thailand"/>
+		<state code="Trinidad"/>
+		<state code="Venezuela"/>
+	</generalDataType>
+	<attributePatterns id="geography.pattern" attribute="geography">
+		<taxa idref="taxa"/>
+		<generalDataType idref="geography.dataType"/>
+	</attributePatterns>
+
+	<newick id="startingTree" units="years" usingDates="true">
+		(((((((DQ285562_Comoros_1993:13.62706567,((((EU179860_Brunei_2005:6.296457411,(JN903581_India_2009:2.591647662,JN903579_India_2008:1.591647662):7.704809749):3.334309376,((((JQ692085_India_2010:0.5628570764,KF289072_India_2011:1.562857076):1.995795155,(JN415486_India_2010:1.177110412,JF967932_India_2010:1.177110412):1.381541819):3.610135552,(JQ917404_India_2009:2.578853477,(JN415507_India_2008:0.8497140049,JN036371_Bangladesh_2009:1.849714005):0.7291394717):2.589934307):4.413779432,GQ357692_Singapore_2008:8.582567215):4.048199572):3.289187429,(JF297582_India_2005:10.75725866,JN415524_Srilanka_2004:9.757258664):2.162695552):9.136131833,AY762084_Singapore_1993:10.05608605):3.57097962):3.416764064,(JF967814_India_2008:13.4280976,((EF654104_Korea_2001:1.213369749,GQ357690_Singapore_2007:7.213369749):0.7491169513,FJ687475_Korea_2008:8.9624867):4.465610895):18.61573214):2.461884557,JF297580_India_1982:8.505714289):3.017200656,AY732476_Thailand_1980:9.522914945):13.80862409,JF297571_India_1962:5.331539033):13.2074484,KF289073_India_1956:12.53898743):7.509350516,(((JF297573_India_1962:12.53870859,(JF297576_India_1963:8.105842766,((((DQ285559_Reunion_2004:24.21371727,((JF297583_India_2007:10.43052621,(JN903578_India_2007:5.567965379,EU448413_India_2006:4.567965379):4.862560829):3.679208987,EU081258_Singapore_2005:12.10973519):13.10398208):5.960159381,((FJ850077_Brazil_2003:4.66539664,(FJ850087_Brazil_2006:6.668702963,FJ850070_Brazil_2000:0.668702963):0.9966936769):15.31564489,GQ868601_Br.Virginisland_1985:1.981041534):9.192835118):9.059864964,(((AF425617_Colombia_1996:23.18059377,((AF514889_Argentina_2000:13.69596189,AF514878_Paraguay_1988:1.695961889):5.708652686,AF425626_Peru_1991:10.40461457):7.775979192):0.7637953364,AF425639_Trinidad_1986:13.9443891):2.093436947,((((FJ410186_PuertoRico_1992:10.13581664,(FJ547086_PuertoRico_1995:11.23919332,FJ562106_PuertoRico_1986:2.239193316):1.89662332):1.599699226,AF226686_FrenchGuiana_1989:8.735515862):5.040365261,(FJ410188_PuertoRico_1996:3.628429768,AY153755_Costarica_1993:0.6284297676):17.14745136):2.26428352,(AF226685_Brazil_1990:10.69625042,(((GU056033_Venezuela_1998:8.875885729,((FJ639797_Venezuela_2004:2.341755605,FJ639823_Venezuela_2006:4.341755605):5.636546463,GQ868561_Colombia_1999:2.978302068):6.897583661):2.200840029,(GU131960_Mexico_1997:7.128722736,FJ639735_Venezuela_1997:7.128722736):2.948003022):4.848299094,((FJ384655_Brazil_1993:2.393133546,AF514876_Argentina_2000:9.393133546):1.461730239,AF311956_Brazil_1997:7.854863785):7.070161067):2.771225563):6.343914228):2.997661407):5.195915565):7.005928308,JF297575_India_1963:5.239669923):2.866172843):5.43286582):5.915518681,((JF297578_India_1971:9.019835122,JF297579_India_1971:9.019835122):14.53209706,AF425625_Nigeria_1968:20.55193219):3.902295082):2.596525133,(AY722803_Myanmar_1998:34.35497537,(AF425615_Myanmar_1976:9.126870847,AY713473_Myanmar_1971:4.126870847):3.228104528):22.69577703):4.99758555);
+	</newick>
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<strictClockBranchRates id="geography.branchRates">
+		<rate>
+			<parameter id="geography.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+	<distributionLikelihood id="geography.clock.rate.exp">
+		<distribution>
+			<exponentialDistributionModel>
+				<mean>
+					<parameter id="geography.clock.rate.exp.mean" value="1"/>
+				</mean>
+			</exponentialDistributionModel>
+		</distribution>
+		<data>
+			<parameter idref="geography.clock.rate"/>
+		</data>
+	</distributionLikelihood>
+
+	<generalSubstitutionModel id="geography.model">
+		<generalDataType idref="geography.dataType"/>
+		<frequencies>
+			<frequencyModel id="geography.frequencyModel" normalize="true">
+				<generalDataType idref="geography.dataType"/>
+				<frequencies>
+					<parameter id="geography.frequencies" dimension="23"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="geography.rates" dimension="253" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="geography.indicators" dimension="253" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="geography.nonZeroRates" elementwise="true">
+		<parameter idref="geography.indicators"/>
+	</sumStatistic>
+	<siteModel id="geography.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="geography.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<markovJumpsTreeLikelihood id="geography.treeLikelihood" useUniformization="true" saveCompleteHistory="true" logCompleteHistory="true" compactHistory="true">
+		<attributePatterns idref="geography.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="geography.siteModel"/>
+		<generalSubstitutionModel idref="geography.model"/>
+		<strictClockBranchRates idref="geography.branchRates"/>
+
+	</markovJumpsTreeLikelihood>
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="15">
+			<parameter idref="geography.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="1.2">
+			<parameter idref="geography.clock.rate.exp.mean"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="24" scaleAllIndependently="true">
+			<parameter idref="geography.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="geography.indicators"/>
+		</bitFlipOperator>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" adaptationDelay="200000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<distributionLikelihood idref="geography.clock.rate.exp"/>
+				<gammaPrior shape="0.5" scale="2.0" offset="0.0">
+					<parameter idref="geography.clock.rate.exp.mean"/>
+				</gammaPrior>
+				<poissonPrior mean="105" offset="22">
+					<statistic idref="geography.nonZeroRates"/>
+				</poissonPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="geography.rates"/>
+					</gammaPrior>
+					<parameter idref="geography.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="geography.model"/>
+			</prior>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="2000" fileName="DENV_completeHistory.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate.exp.mean"/>
+			<parameter idref="geography.clock.rate"/>
+			<parameter idref="geography.rates"/>
+			<parameter idref="geography.indicators"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+			<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="2000" nexusFormat="true" fileName="DENV_completeHistory.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+		</logTree>
+		<log id="historyLogger" logEvery="2000" fileName="DENV_completeHistory.txt">
+			<completeHistoryLogger>
+				<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+			</completeHistoryLogger>
+		</log>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>

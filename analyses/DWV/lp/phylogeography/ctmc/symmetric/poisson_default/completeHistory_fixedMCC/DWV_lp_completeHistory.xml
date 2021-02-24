@@ -1,0 +1,987 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="AB070959_1999">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="AJ489744_2000">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AliL1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AUSTM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AUSTM7_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AUSTMAC1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AUSTMAC2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AUSTMFRE1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="AY292384_2000">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="FRMPB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GEPRB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GU109335_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUB1D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUB2D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUB4H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB5_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB6_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDB7_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERDWV_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="GUERM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="HAL1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HAL2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HAM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HAM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HAM3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HAWEV3B_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Hawaii</attr>
+		</taxon>
+		<taxon id="HM162355_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IOMGLB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IOMGLB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IOMGLB6H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IREJMB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IRJMB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IRJMB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IRJMB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="IRJMB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="ITB1H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="ITB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JA08TB1H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JA08TB2H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JA08TM2_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JAPOTB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JATB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JATB5H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JATM3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346550_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346551_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346552_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346553_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346554_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346558_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346559_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346560_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346561_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346562_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346563_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346564_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346565_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346568_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346574_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346575_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346576_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346577_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346578_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346579_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346582_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346584_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346585_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346588_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346589_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346590_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346591_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346592_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346595_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346596_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346597_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346598_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346599_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346600_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346601_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346602_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346603_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346604_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346607_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346608_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346610_2006">
+			<date value="2006" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346612_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346613_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346614_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346615_1989">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346616_1989">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346617_1989">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346618_1982">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346619_1982">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346620_1982">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346621_1987">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346622_1987">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346623_1987">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346624_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346625_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346626_1991">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346627_1990">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346628_1990">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346629_1990">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346630_1988">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346631_1988">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346632_1988">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346633_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346634_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346635_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346636_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346637_2002">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346638_2002">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346639_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346640_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346641_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346642_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346643_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346644_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346645_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346646_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346647_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346648_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346649_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346650_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346651_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346652_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346653_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346654_2007">
+			<date value="2007" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JF346656_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF346657_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF440525_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JF440526_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="JX878304_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="JX878305_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">east_asia</attr>
+		</taxon>
+		<taxon id="KF164292_2011">
+			<date value="2011" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="KF164293_2011">
+			<date value="2011" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="KJ437447_2013">
+			<date value="2013" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="MELMB2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MELMB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MELMB4H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MELMB8H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MELMM9H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MEXA1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MEXB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="MEXLMB4_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="NZMGB1D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB1H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB2D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB3D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB3H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB4D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGB4H_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGM3_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="NZMGM5_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">New Zealand</attr>
+		</taxon>
+		<taxon id="OZB1H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Australia</attr>
+		</taxon>
+		<taxon id="OZB2H2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Australia</attr>
+		</taxon>
+		<taxon id="OZB3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Australia</attr>
+		</taxon>
+		<taxon id="POGTB1D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POGTB5D2_2003">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POGTB6D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POGTB7D_2003">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POGTM1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POGTM2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POOGTB2D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="POOGTB3D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SHHLB2D_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SHSMAB2H_2001">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SPJM2H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SPJM3H_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SPJM5D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SWBDB4D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SWBDB5D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SwissB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SwissB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SwissB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="SWISSBD3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="TaptB1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="TaptB2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="TaptP1_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="TaptP2_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="TaptP3_2008">
+			<date value="2008" direction="forwards" units="years"/>
+			<attr name="geography">Europe</attr>
+		</taxon>
+		<taxon id="UOMBB_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="UOMBD_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="UOMBE_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="UOMBF_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="UoMMSB3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">America</attr>
+		</taxon>
+		<taxon id="KC991354_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991356_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991357_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991358_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991359_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991360_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991362_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991364_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991365_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="KC991366_2012">
+			<date value="2012" direction="forwards" units="years"/>
+			<attr name="geography">Thailand</attr>
+		</taxon>
+		<taxon id="PAESB1D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESB2D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESB3D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESB4D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESB5D_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESP1_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESP2_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PAESP3_2009">
+			<date value="2009" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+		<taxon id="PA4SMB2_1998">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Pakistan</attr>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="geography.dataType">
+		<state code="America"/>
+		<state code="Australia"/>
+		<state code="east_asia"/>
+		<state code="Europe"/>
+		<state code="Hawaii"/>
+		<state code="New Zealand"/>
+		<state code="Pakistan"/>
+		<state code="Thailand"/>
+	</generalDataType>
+	<attributePatterns id="geography.pattern" attribute="geography">
+		<taxa idref="taxa"/>
+		<generalDataType idref="geography.dataType"/>
+	</attributePatterns>
+
+	<newick id="startingTree" units="years" usingDates="true">
+		(((((KC991354_2012:4.149764596,KC991356_2012:4.149764596):4.019144139,KC991360_2012:8.168908735):26.43937662,(KC991362_2012:26.53577278,(((((PAESP1_2009:1.740603657,(PAESB3D_2009:1.195024247,PAESB2D_2009:1.195024247):0.5455794097):0.8404602651,PAESB4D_2009:2.581063922):2.339816487,(PAESB1D_2009:4.445631166,(PAESP2_2009:0.3943980155,PAESP3_2009:0.3943980155):4.051233151):0.475249243):1.365655112,PAESB5D_2009:6.286535521):12.07239696,(KC991359_2012:14.91301847,(((KC991364_2012:2.494813128,KC991357_2012:2.494813128):0.913595829,KC991358_2012:3.408408957):7.178294117,(KC991366_2012:4.048224669,KC991365_2012:4.048224669):6.538478406):4.3263154):6.44591401):5.176840295):8.072512579):15.66479438,JF440525_2008:46.27307974):36.65958487,(((((((IRJMB4H_2009:13.15223162,((AUSTMAC1_2009:0.6658511615,AUSTMAC2_2009:0.6658511615):9.877999478,(((POGTB7D_2003:0.3753275556,POGTB6D_2003:0.3753275556):0.5715810138,POGTM2_2009:6.946908569):1.519092111,(POGTM1_2009:6.685912921,POGTB5D2_2003:0.6859129215):1.780087758):2.07784996):2.608380983):3.437149862,((JF346600_2006:3.34422412,((JF346561_2006:0.3846050728,JF346563_2006:0.3846050728):2.45272144,((JF346599_2006:1.139713953,JF346603_2006:1.139713953):1.264465127,(JF346596_2006:1.427834439,(JF346592_2006:0.7292734038,(JF346602_2006:0.2523775788,JF346591_2006:0.2523775788):0.476895825):0.6985610353):0.9763446411):0.4331474327):0.5068976072):3.609144129,((((((JF346589_2006:0.3228895775,JF346588_2006:0.3228895775):2.984494226,(JF346601_2006:2.526919811,((JF346551_2006:0.3515233673,JF346608_2006:0.3515233673):1.70437688,(JF346607_2006:1.598683284,(JF346550_2006:1.026096507,(JF346598_2006:0.7186253081,(JF346590_2006:0.3848924895,JF346610_2006:0.3848924895):0.3337328186):0.3074711987):0.5725867771):0.457216963):0.4710195637):0.7804639924):0.9383671966,JF346584_2006:4.245751):2.830491192,(JF346576_2006:0.8741954084,JF346577_2006:0.8741954084):6.202046783):0.01,JF346597_2006:4.10721896):1.271272971,(((JF346595_2006:0.3814188014,JF346562_2006:0.3814188014):0.6007022812,JF346579_2006:0.9821210826):1.638997253,((JF346582_2006:0.3734233993,JF346578_2006:0.3734233993):0.3672238214,JF346585_2006:0.7406472207):1.880471115):2.757373595):1.574876317):6.636013236):8.209458158,(FRMPB5H_2009:13.00471929,((JA08TB1H_2008:1.099605205,JA08TB2H_2008:1.099605205):5.06147902,(JAPOTB1_2009:2.855176342,JATB5H_2009:2.855176342):4.305907884):5.843635063):11.79412035):16.42578734,(((AB070959_1999:19.52095956,JF346618_1982:2.520959563):2.528652294,(JF346620_1982:1.143720856,JF346619_1982:1.143720856):3.905891001):3.390291205,(((JATB2H_2009:13.2237845,PA4SMB2_1998:2.223784498):3.546278804,JATM3_2009:16.7700633):7.45385503,JA08TM2_2008:23.22391833):11.21598473):5.784723916):7.383860821,((JF346650_2007:0.6270680661,JF346643_2007:0.6270680661):14.66482798,JX878304_2012:20.29189605):31.31659175):6.34988541,(((JF346633_2007:2.415490937,JF346635_2007:2.415490937):15.36073829,(((((JF346559_2006:0.4633901807,JF346558_2006:0.4633901807):0.8026214382,JF346564_2006:1.266011619):0.7101043246,JF346565_2006:1.976115943):1.279398418,JF346560_2006:3.255514362):10.32874356,((JF346568_2006:4.557959996,(((JF346575_2006:1.002475478,JF346574_2006:1.002475478):1.100815748,(JF346552_2006:0.8992333602,(JF346554_2006:0.399570605,JF346553_2006:0.399570605):0.4996627552):1.204057866):1.227049115,JF346604_2006:3.330340341):1.227619655):6.366668392,((POOGTB2D_2009:1.822340435,POOGTB3D_2009:1.822340435):5.028613916,POGTB1D_2003:0.8509543508):7.073674037):2.659629531):3.191971311):14.85813952,(((JF346641_2007:4.184304951,(JF346654_2007:1.842878004,JF346647_2007:1.842878004):2.341426947):10.68355445,JX878305_2012:19.8678594):6.605422945,((JF346652_2007:0.572896099,JF346645_2007:0.572896099):11.37262109,((JF346649_2007:2.341029707,(((JF346646_2007:1.081580437,(JF346653_2007:0.671972526,JF346644_2007:0.671972526):0.4096079106):0.3000656941,(JF346651_2007:0.2714191059,JF346648_2007:0.2714191059):1.110227025):0.09062997409,JF346642_2007:1.472276105):0.868753602):3.801584005,JF346640_2007:6.142613712):5.802903476):9.527765161):11.1610864):20.32400446):6.470956452,((((SwissB2_2009:6.417973857,((KF164292_2011:0.5640877639,KJ437447_2013:2.564087764):1.170166829,KF164293_2011:1.734254593):6.683719264):15.32484981,(SHHLB2D_2008:19.9483471,JF346626_1991:2.948347098):0.7944765691):0.6080611597,(((SWBDB5D_2009:0.631239323,IRJMB1H_2009:0.631239323):5.09280308,((((IOMGLB1H_2009:0.3743926365,SwissB1_2009:0.3743926365):0.7491448916,(HAL1_2009:0.3854570352,SWBDB4D_2009:0.3854570352):0.7380804929):1.840821675,((((IOMGLB5H_2009:0.4182286062,HAL2_2009:0.4182286062):0.4462517969,SwissB3_2009:0.8644804031):0.691301734,TaptP3_2008:0.5557821371):0.7027640803,(TaptP1_2008:0.3266918361,IOMGLB6H_2009:1.326691836):0.9318543813):0.7058129862):1.107508761,TaptP2_2008:3.071867965):1.652174438):8.957540169,(((IREJMB1_2009:2.05049308,(IRJMB3H_2009:0.9850686674,IRJMB2H_2009:0.9850686674):1.065424413):6.853734914,((((GUERDWV_2009:0.3879803719,AUSTMFRE1_2009:0.3879803719):0.8797407141,GUB1D_2009:1.267721086):1.635600044,((GUERDB7_2009:0.3914745933,GUB4H_2009:0.3914745933):1.896620621,(GUERDB6_2009:1.638583786,((GUERDB2_2009:0.8229592064,GUERDB4_2009:0.8229592064):0.4115644511,GUERDB5_2009:1.234523657):0.4040601286):0.6495114286):0.6152259153):1.480710963,(GUERDB3_2009:1.603482545,((GUERM1_2009:0.7475618075,(GUB2D_2009:0.2604767019,OZB3H_2009:0.2604767019):0.4870851056):0.4317008392,(GUB4H2_2009:0.2734983529,ITB1H_2009:0.2734983529):0.9057642939):0.4242198978):2.780549548):4.520195901):3.41347432,JF346637_2002:5.317702315):2.363880256):7.669302256):14.20844091,(((((((((JF346657_2008:0.5006560942,JF346656_2008:0.5006560942):3.479859553,ITB2H_2009:4.980515648):0.8150153715,(HAM2_2009:1.538775301,HAM3_2009:1.538775301):4.256755718):0.4413686185,SPJM2H_2009:6.236899638):6.796594545,AJ489744_2000:4.033494182):0.01,(MELMM9H_2009:1.55252063,HAM1_2009:1.55252063):9.990294876):0.5107997616,(MEXLMB4_2009:2.710353493,MELMB2H_2009:2.710353493):9.343261775):22.06045437,(((((((JF346634_2007:1.348988342,JF346636_2007:1.348988342):14.71120073,(SHSMAB2H_2001:1.860494338,((((NZMGB3D_2008:0.9307378623,(NZMGB2D_2008:0.4029285667,NZMGB4D_2008:0.4029285667):0.5278092956):0.3872670213,NZMGB1H_2008:1.318004884):0.4924031118,NZMGM5_2008:1.810407995):2.502039816,(NZMGB4H_2008:2.133047808,((NZMGM3_2008:0.3087894458,NZMGB1D_2008:0.3087894458):0.6218337739,NZMGB3H_2008:0.9306232197):1.202424589):2.179400003):4.548046527):8.19969473):7.637527778,(JF346621_1987:2.681637813,JF346623_1987:2.681637813):1.016079033):2.544800321,(JF346622_1987:3.859825691,(JF346616_1989:2.133299167,(JF346615_1989:0.6257295744,JF346617_1989:0.6257295744):1.507569593):3.726526524):2.382691476):1.295576809,((JF346614_1991:2.484002546,(JF346613_1991:1.185067529,JF346612_1991:1.185067529):1.298935018):2.852879174,JF346627_1990:4.33688172):6.201212255):1.908840218,(((MELMB3H_2009:1.282381441,MELMB8H_2009:1.282381441):9.914248158,((JF346639_2007:2.761944238,MELMB4H_2009:4.761944238):5.774738088,AY292384_2000:1.536682325):0.6599472741):8.965530243,JF346625_1991:2.162159842):11.28477435):1.698019376,((JF346629_1990:1.479875582,JF346628_1990:1.479875582):5.87842985,((JF346631_1988:0.7617953112,JF346624_1991:3.761795311):1.23480331,(JF346632_1988:0.642115715,JF346630_1988:0.642115715):1.354482906):3.361706811):6.786648138):0.9691160708):0.6128048499,(((((((UOMBE_2009:0.248755471,MEXB4_2009:0.248755471):0.6522051295,(OZB1H2_2009:0.2592785885,UOMBD_2009:0.2592785885):0.641682012):1.975737925,(AUSTM7_2009:1.389899696,AUSTM2_2009:1.389899696):1.48679883):1.427437141,((SWISSBD3_2009:0.5241454199,OZB2H2_2009:0.5241454199):1.285895146,(MEXA1_2009:0.4469835432,HAWEV3B_2009:0.4469835432):1.363057023):2.4940951):3.747414253,(((HM162355_2009:2.504934126,GU109335_2009:2.504934126):3.991981971,(((JF440526_2008:0.6947436009,SPJM3H_2009:1.694743601):2.268340863,SPJM5D_2009:3.963084464):1.160779076,(UoMMSB3_2009:1.125939042,UOMBB_2009:1.125939042):3.997924498):1.373052556):0.4116553688,UOMBF_2009:6.908571466):1.142978454):0.695002386,GEPRB2H_2009:8.746552305):3.458765859,(((AliL1_2009:0.8247075982,TaptB2_2009:0.8247075982):2.012254169,TaptB1_2009:2.836961768):7.349699541,JF346638_2002:3.186661309):2.018656856):22.52155633):1.832451246):24.87000392):22.50333494);
+	</newick>
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<strictClockBranchRates id="geography.branchRates">
+		<rate>
+			<parameter id="geography.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<generalSubstitutionModel id="geography.model">
+		<generalDataType idref="geography.dataType"/>
+		<frequencies>
+			<frequencyModel id="geography.frequencyModel" normalize="true">
+				<generalDataType idref="geography.dataType"/>
+				<frequencies>
+					<parameter id="geography.frequencies" dimension="8"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="geography.rates" dimension="28" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="geography.indicators" dimension="28" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="geography.nonZeroRates" elementwise="true">
+		<parameter idref="geography.indicators"/>
+	</sumStatistic>
+	<siteModel id="geography.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="geography.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<markovJumpsTreeLikelihood id="geography.treeLikelihood" useUniformization="true" saveCompleteHistory="true" logCompleteHistory="true" compactHistory="true">
+		<attributePatterns idref="geography.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="geography.siteModel"/>
+		<generalSubstitutionModel idref="geography.model"/>
+		<strictClockBranchRates idref="geography.branchRates"/>
+
+	</markovJumpsTreeLikelihood>
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="15">
+			<parameter idref="geography.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="24" scaleAllIndependently="true">
+			<parameter idref="geography.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="geography.indicators"/>
+		</bitFlipOperator>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" adaptationDelay="200000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="geography.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.693147180559945" offset="7">
+					<statistic idref="geography.nonZeroRates"/>
+				</poissonPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="geography.rates"/>
+					</gammaPrior>
+					<parameter idref="geography.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="geography.model"/>
+			</prior>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="2000" fileName="DWV_lp_completeHistory.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<parameter idref="geography.rates"/>
+			<parameter idref="geography.indicators"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+			<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="2000" nexusFormat="true" fileName="DWV_lp_completeHistory.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+		</logTree>
+		<log id="historyLogger" logEvery="2000" fileName="DWV_lp_completeHistory.txt">
+			<completeHistoryLogger>
+				<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+			</completeHistoryLogger>
+		</log>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>

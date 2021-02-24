@@ -1,0 +1,3861 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="96CG11">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG12">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG13">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG14">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG17">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG16">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="96CG21">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG27">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG22a">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG22b">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG23">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG24">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG152">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="97CG257">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="97CG275">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG276">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG281">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG282">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG284">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG305">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG307">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG311">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG313">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG314">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG315">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="97CG316">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG39">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG34">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG38">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="96CG30">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">PointeNoire</attr>
+		</taxon>
+		<taxon id="98CG914">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG897">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG918">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG912">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG910">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG908">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG905">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG904">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG900">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG899">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG896">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG895">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG893">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG887">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG879">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG877">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG874">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG869">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG867">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG861">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG859">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG858">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG853">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="98CG922">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="ZR_59">
+			<date value="1959" direction="forwards" units="years"/>
+			<attr name="geography">?</attr>
+		</taxon>
+		<taxon id="B_US_NY1s81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_NY2s81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_NY3s81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_NJs81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_GAs81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_CA1s81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_CA2s81">
+			<date value="1981" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_CA_CANs82">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_H3s82">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_H5s82">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_H2s82">
+			<date value="1982" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_H6s83">
+			<date value="1983" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_H7s83">
+			<date value="1983" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_RFs83">
+			<date value="1983" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SF2B13s83">
+			<date value="1983" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_NY5CGs84">
+			<date value="1984" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SF33s84">
+			<date value="1984" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_CDC451s84">
+			<date value="1984" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_MNCGs84">
+			<date value="1984" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_WMJ22s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFMHS3s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_WCIPRs85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_CC1s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFMHS4s86">
+			<date value="1986" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_BCs87">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFMHS7s87">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFMHS6s88">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFMHS19s88">
+			<date value="1988" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_P896s89">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_WEAUs90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US4s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US3s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US2s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US1s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT651s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT652s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US712s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US056s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_DH12s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US657s92">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT593s92">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT594s92">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT596s92">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_HT_HT599s92">
+			<date value="1992" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_US073s93">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0016s93">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_C09Bs94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_C05Ds94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0679s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0605s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0515s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0136s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0020s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0060s94">
+			<date value="1994" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_C11s95">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_C10s95">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH1116s95">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0908s95">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH0791s95">
+			<date value="1995" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_TT_QH1420s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_1304s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_C14s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_ARES2s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFCs78">
+			<date value="1978" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFBs78">
+			<date value="1978" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFDs78">
+			<date value="1978" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="B_US_SFAs79">
+			<date value="1979" direction="forwards" units="years"/>
+			<attr name="geography">subB</attr>
+		</taxon>
+		<taxon id="EQFE10t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS13tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS15tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS36tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS48tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB35t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB38tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB3tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB40tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB46tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB54tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB58tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB66t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB69tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB81tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB9tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="K30008s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30042s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30084s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30104s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30105s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30109s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30326s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30432s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30487s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30582s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30620s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30639s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30691s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30750s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30793s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30812s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30858s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30871s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30873s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K30884s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31149s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31166s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31184s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31194s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31195s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31252s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31265s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31331s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31335s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31343s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31496s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31533s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31602s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31648s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31688s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31821s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31857s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31886s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31899s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31917s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K31978s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32042s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32047s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32051s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32130s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32154s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32170s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32253s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="K32290s85">
+			<date value="1985" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KBS154tF1s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KBS187tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KBS271tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KBS292tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KDS72tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE010tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE068tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE071tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST016tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST028tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST032tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST040tKs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST046tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST061tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST069tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST081tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST103tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST104tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST121tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KIST132tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST49tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST8t02s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP009tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP031tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP032tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP042tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP043tKs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP044tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP053tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP061tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP063tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP085tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP087tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP088tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP092tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP093tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP094tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP096tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP097tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP10tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP118tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP122tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP125tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP130tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP133tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP137tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP141tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP145tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP149t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP152tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP154tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP156tKs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP163tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP166tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP172tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP173tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP174tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP176tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP180t01s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP182tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP183t02s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP186tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP37tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP84tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP85t05s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP88tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP89tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP93tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP96tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP98tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS004tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS005tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS009tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS014tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS015tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS017t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS018tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS019tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS021tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS022tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS023tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS024tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS025tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS033tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS035tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS040tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS042t02s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS043tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS047tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS049t11s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS050tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS051tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS059tKs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS062tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS068tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS069tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS070tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS071tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS072tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS075tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS076tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS078tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS080tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS082tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS083tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS084tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS095tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS097tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS106tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS108tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS110tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS13tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS37tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KSFE047tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSFE061tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSFE110tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSFE141tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSFE142tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS004tA2s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS006tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS012tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS023tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS030tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS039tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS042tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS046tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS047tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS048tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS055tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSS059tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSTB001tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSTB007tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSTB008tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSTB022tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KSTB024tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kisangani</attr>
+		</taxon>
+		<taxon id="KTB002tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB008tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB020tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB021tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB025tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB026tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB028tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB031tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB032tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB035tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB038t01s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB041tF1s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB043tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB050tCPXs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB053t02s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB085tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB088tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB089tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB093tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB098tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB122tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB123tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB124tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB130tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB134tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB136tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB144tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB145tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB154tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB156tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB168tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB171tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB173tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB182tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB183tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB184tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB185tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB195tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB206tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB215tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB220tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB228tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB229tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB230tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB231t01s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB235tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB238tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB242tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB243tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="LBDS001tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBDS072tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBDS078tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBFE012tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBFE025tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBFE069tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBFE106tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBFE184tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST016tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST021tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST037tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST043tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST051tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBIST052tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR024tCPXs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR025tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR032tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR060t13s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR061tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR074tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBR075tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS002tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS004tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS010tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS012t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS017tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS018tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS019tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS022tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS023tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS024tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS029tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS031tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS033tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS035tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS036tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS038tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS042tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS043tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS044tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS045tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS048tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS049tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS050tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS051tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS053tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS054tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBS055tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB011tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB018t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB019tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB021tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB027tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB028tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB031tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB032tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB037t01s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB038tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB039tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB040tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB043tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB045tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB046tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB051tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB052tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB062tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB064tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB072tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB073tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB084tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB087tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB094t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB095tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB102tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="LBTB106tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">Lubumbashi</attr>
+		</taxon>
+		<taxon id="MBFE015tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE038tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE073tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE101tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE117tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE118tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE131tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE161tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE190tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE191tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE194tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE243tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE252tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE311tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS23tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS77t02s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB011tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB012tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB019tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB022t02s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB023tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB030tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB037tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB041tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB044tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB047tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB052tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB054tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB079tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB082tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB083tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB085tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB088tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB090tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB098tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB108tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB115tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB116tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB117tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB127tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB138tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB140tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB148tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB151tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB152tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB157tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB159tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB43tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="SJDS15tA2s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="SJDS74tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KITACD002s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD209s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD014s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD114s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD007s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD020s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD012s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD111s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD106s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD005s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD004s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD019s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD016s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD123s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD101s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD208s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD113s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD003s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD210s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD015s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD122s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD129s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD009s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="KITACD107s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">Likasi</attr>
+		</taxon>
+		<taxon id="CgARV04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV101s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV109s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV111s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV112s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV115s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV116s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV117s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV138s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV140s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV41s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV47s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV48s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV52s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV53s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV55Es03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV60s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV67s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV75s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV76s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV93s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgARV94s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgAS20s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgAS23s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU01s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU02s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU05s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU06s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU07s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU08s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU09s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU10s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU11s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU12s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU13s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU14s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU15s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU17s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU18s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU19s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU27s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU29s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU30s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU31s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU33s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU35s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU37s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU38s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU43s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU45s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU46s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU47s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU48s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU50s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU53s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCHU56s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP03s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP06s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP07s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP11s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP14s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="CgCP15s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+			<attr name="geography">Brazzaville</attr>
+		</taxon>
+		<taxon id="Y700078s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y701129s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y703911s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y705331s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y705535s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y705778s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706598s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706600s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706604s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706620s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706624s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706633s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706636s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706637s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706645s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706653s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706656s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706993s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706995s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706996s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y706998s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707017s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707025s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707035s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707042s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707067s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707077s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707086s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707089s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707118s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707119s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707123s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707124s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707125s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707131s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707132s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707136s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707144s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707167s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y707186s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y715214s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y723085s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y723245s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y723312s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y723480s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y754304s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y756072s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y764299s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y765540s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y766474s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y766612s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y766625s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y767679s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y767915s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y767923s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768154s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768268s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768451s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768551s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768718s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768856s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768876s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768898s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768978s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y768985s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="Y769053s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK17s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK25s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK26s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK29s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK45s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK52s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK56s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK63s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK64s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK67s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="YBDK83s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCC2tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="EQS1tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS16s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS18tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS21tAEs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS25tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS29s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS45tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS49tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQS8tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB1tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB14tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB43tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB44tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB50s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB52tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB60tAEs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="EQTB80tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Bwamanda</attr>
+		</taxon>
+		<taxon id="KCC1tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCC3tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCC4tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCD11tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCD2tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCD4tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCD6tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KCD9tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KDS85tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE181tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE198tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE267s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE288tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE326tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE339tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE372tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE4tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE45s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE53tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE58tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KFE77tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST10tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST100tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST120s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST121tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST126tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST135s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST140tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST143tF2s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST144tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST147tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST30tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST43tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST50tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST52tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST66tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST85tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST89tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KMST91s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP1tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP13tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP14tAEs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP18tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP25tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP28tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP35tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP36tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP40tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP43tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP44tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP54tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP63tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP72tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP74tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP77tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP78tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP79tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP82tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KP86tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS10tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS11tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS14tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS15tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS16tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS18tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS2tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS22tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS26tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS27tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS29tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS30tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS34tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS36tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS38tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS39tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS4tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS42tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS47tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS50tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS55tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS56tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS7tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB1tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB110tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB111tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB118tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB119s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB124tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB13tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB132tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB136tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB14tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB140tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB142tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB147tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB157tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB158tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB16tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB160tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB165tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB17s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB176tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB18tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB181tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB185tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB188tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB20tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB22s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB23tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB27tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB32tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB36tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB37tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB4tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB44tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB48tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB49s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB50tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB52tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB54s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB56tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB6tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB62tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB7tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KTB79tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="MBCD5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBDS17tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE14tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE149tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE155tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE183tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE185tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE244tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE247tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE250s97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE300tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE34tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE61tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE71tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE78tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE91tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBFE92tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBP2tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS12tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS20tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS26tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS28tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS30tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS32tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS33tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS341tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS342tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS35tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS37tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS4tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS41tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS55tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS56tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS63tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS7tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS80tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBS9tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB10tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB11tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB13tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB29tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB3tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB4tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB54tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB58tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="MBTB7tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">MbuyiMayi</attr>
+		</taxon>
+		<taxon id="SJDS17tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="SJFE26tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="SJFE59tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="KS43tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+			<attr name="geography">Kinshasa</attr>
+		</taxon>
+		<taxon id="C_ZM_02ZM112s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZM_02ZM114s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW0402s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW0502s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW1106s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW15B03s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW16B01s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_96BW17s96">
+			<date value="1996" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_TZ_98TZ017s98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV003s98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV004s98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV006Bs98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV008As98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV010s98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_TV012As98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_00BW087421s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_00BW38193s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_00BW38713s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BW_00BW3970_2s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_KE_KER2010s00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_DU123s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_98ZA502s98">
+			<date value="1998" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_TZ_A388s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_1176MBs00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_1192M3Ms00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_1170MBs00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_LT17s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_LT39s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_LT45s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_LT50s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_MW_959s93">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_MW_93MW_965s93">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_SO_89SM_145s89">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_SN_90SE_364s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_TZ_CO3305s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_TZ_CO6721s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_TZ_01TZ_BD911s01">
+			<date value="2001" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_SK112B1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZASK182B1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZASK034B1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_KE_MCH2126Ds87">
+			<date value="1987" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZASK118B1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZASK107B1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZASK176B1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZASK072B1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZASK170B1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZAPS201B1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZAPS073MB1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZASK171B1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04ZAPS165MB1s04">
+			<date value="2004" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZAPS140MB1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZM_ZM249Ms03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_05ZASK243B1s05">
+			<date value="2005" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZAPS067MB2s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_03ZAPS152MB1s03">
+			<date value="2003" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_Du156s99">
+			<date value="1999" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_RP4s02">
+			<date value="2002" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_04_CAP61_2_F10Js00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_05_CAP08_2_E4Js00">
+			<date value="2000" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_UG_UG268A2s90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZM_ZM18s89">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_Dlus90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ZA_GOMs90">
+			<date value="1990" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_MW_SM750s89">
+			<date value="1989" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_MW_93MW960s93">
+			<date value="1993" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_BI_BU910815s91">
+			<date value="1991" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+		<taxon id="C_ET_ETH2220s86">
+			<date value="1986" direction="forwards" units="years"/>
+			<attr name="geography">otherC</attr>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="geography.dataType">
+		<state code="Brazzaville"/>
+		<state code="Bwamanda"/>
+		<state code="Kinshasa"/>
+		<state code="Kisangani"/>
+		<state code="Likasi"/>
+		<state code="Lubumbashi"/>
+		<state code="MbuyiMayi"/>
+		<state code="otherC"/>
+		<state code="PointeNoire"/>
+		<state code="subB"/>
+	</generalDataType>
+	<attributePatterns id="geography.pattern" attribute="geography">
+		<taxa idref="taxa"/>
+		<generalDataType idref="geography.dataType"/>
+	</attributePatterns>
+
+	<newick id="startingTree" units="years" usingDates="true">
+		((((((((((((((96CG11:24.8767435,KITACD210s01:29.8767445):5.5250835,((EQTB35t11s97:29.0893435,((KP25tAs97:23.135997,Y706656s99:25.135997):4.351062,KTB7tAs97:27.487059):1.6022845):1.0472935,K30871s85:18.136637):1.26519):3.2010555,((CgCHU43s03.5:32.122671,K30109s85:13.622671):4.089013,LBFE184tAs02:34.711683):4.8911995):2.9284955,(((((EQFE10t11s97:3.897032,EQS18tAs97:3.897032):19.4431315,KS049t11s02:28.3401625):6.2559205,KP10tAs97:29.596084):5.391129,(((((K30873s85:12.661202,KS071tAs02:29.661203):2.554001,KTB025tAs02:32.215203):2.778327,((KMST49tAs97:21.745614,KS062tAs02:26.745613):3.563389,MBS32tAs97:25.309002):4.684528):0.338072,KP087tAs02:35.331603):4.042506,(((K31648s85:11.7357785,Y706995s99:25.7357785):5.4286585,LBR060t13s02:34.164436):2.483673,(Y706620s99:25.8070785,Y706637s99:25.8070785):7.8410305):2.726):0.613103):0.709297,(KSS059tAs02:31.742604,MBTB157tAs02:31.742604):8.953905):1.834869):4.905513,(((((97CG307:24.52275,K32051s85:12.52275):6.98401,Y707025s99:33.50676):2.9836995,(((((KITACD002s00:5.479233,KITACD014s00:5.479233):7.686041,KITACD015s00:13.165274):16.78375,KITACD113s01:30.949024):3.437528,(KP009tUs02:32.696755,KTB157tAs97:27.696755):2.689797):2.00536,KSTB007tAs02:37.391912):2.0985475):1.3937575,((96CG34:25.254178,CgARV53s03.5:32.754178):2.260812,MBTB088tAs02:33.514988):7.36923):2.4809285,((((((96CG39:22.539022,KFE198tAs97:23.539021):3.977992,KP77tAs97:27.517013):4.732101,((CgARV52s03.5:32.928824,(KMST8t02s97:16.519624,KS042t02s02:21.519624):9.9092):5.2002915,((KMST52tAs97:25.6971615,Y767679s00:28.6971615):3.354666,(MBTB022t02s02:30.079366,MBTB083tAs02:30.079367):3.9724605):2.577288):0.6199995):0.680167,KCD6tAs97:32.929282):2.864688,((((CgAS20s03.5:34.617731,(KS47tAs97:26.581892,(MBTB013tAs02:25.126319,MBTB159tAs02:25.126319):6.455572):1.535839):1.750518,K30620s85:17.868249):1.3082005,KS7tAs97:31.1764485):2.5939795,((((CgCHU10s03.5:30.317528,Y706636s99:25.817528):4.9035935,(KTB182tAs02:31.337881,YBDK83s99:28.33788):2.3832405):1.0407715,MBFE247tAs97:29.761892):1.0561,MBTB012tAs02:35.817992):2.952436):2.023541):0.957897,(KITACD007s00:1.958573,KITACD020s00:1.958573):37.793294):1.6132795):4.0717445):1.768046,(((((((CgCHU12s03.5:33.340581,MBTB019tUs02:31.840581):3.960689,((CgCHU30s03.5:29.447658,Y707035s99:24.947658):4.70993,(KP72tAs97:24.0947705,MBFE194tAs02:29.0947705):3.5628185):3.143682):0.9865515,YBDK63s99:33.7878215):1.4206935,((KDS72tAs97:28.244118,(MBFE243tAs02:26.266346,MBTB54tAs97:21.266346):6.977771):0.8276415,Y768876s00:32.0717595):4.1367555):2.5715975,((KP145tAs02:33.653821,KP37tAs97:28.653821):6.513437,((((KS005tAs02:34.161818,(KTB242tUs02:26.129005,Y715214s99:23.129005):8.032813):2.546269,KS084tAs02:36.708086):0.421673,((KTB132tAs97:28.2926215,KTB79tAs97:28.2926215):1.703353,(LBS050tAs02:31.9250635,YBDK25s99:28.9250635):3.070911):2.1337855):1.804822,KS106tAs02:38.934582):1.232678):0.6128525):0.7131735,((K31343s85:15.017756,KSFE142tAs02:32.017756):4.9922295,K31978s85:20.0099835):4.4833005):2.312211,((((EQS1tAs97:27.55358,EQS36tAs97:27.55358):4.464082,((EQTB58tAs97:25.961501,K32253s85:13.961501):4.51975,KP044tAs02:35.48125):1.536411):2.041581,((EQS25tAs97:27.014961,((EQTB3tAs97:21.375416,KS34tAs97:21.375416):1.8854375,EQTB9tAs97:23.2608535):3.7541075):2.007164,KS13tAs97:29.022125):5.037119):1.038785,Y706998s99:37.098028):3.707469):5.399441):0.441733,((((96CG24:32.992761,(CgARV93s03.5:38.905313,EQS48tAs97:32.405313):1.587448):1.236318,(((EQTB44tAs97:27.066452,K30104s85:15.066453):6.2205365,((KDS85tAs97:23.9909295,MBTB030tAs02:28.9909295):3.4469145,(MBFE161tAs02:27.684344,MBS26tAs97:22.684344):4.7535):5.8491455):0.9025795,(((K30105s85:12.655394,KSTB001tAs02:29.65539):8.390264,(((K31886s85:14.348579,KTB230tAs02:31.348581):2.551491,LBTB045tAs02:33.900071):0.978322,(KCC4tAs97:25.930752,YBDK17s99:27.930752):3.947642):3.167263):0.19228,(KTB118tAs97:27.617248,MBTB43tAs97:27.617249):5.620686):0.951633):1.039511):2.232143,((((98CG899:28.617542,(KP43tAs97:25.137954,LBS023tAs02:30.137951):2.479591):1.834756,KTB37tAs97:29.452298):2.608406,(KP093tAs02:34.16447,((KS36tAs97:24.37279,KSS013tAs02:29.37279):2.274945,Y768978s99:28.647736):2.516735):2.896236):1.859289,(CgARV140s03.5:34.6822525,(EQTB69tAs97:23.7595425,KS068tAs02:28.7595425):4.422709):5.7377415):3.541228):0.964881,((K31857s85:18.852017,((KMST121tAs97:26.428839,(KP137tAs02:27.529719,LBS024tAs02:27.529719):3.89912):2.695488,LBFE025tAs02:34.124327):1.72769):2.054331,(KMST140tAs97:25.9334135,KTB031tAs02:30.9334135):6.9729345):5.519756):6.220566):0.5724745,((98CG895:30.004023,KTB020tAs02:34.004024):7.428218,((K30639s85:16.0379885,(KP79tAs97:21.200264,KS37tAs97:21.200264):6.8377245):3.5829635,KTB243tAs02:36.620952):4.811289):8.7869035):2.964043,(((((((((((((96CG17:25.668394,(97CG152:21.2593455,KS083tAs02:27.2593455):4.4090485):2.720856,(96CG21:24.196748,CgCHU09s03.5:31.696748):4.192503):0.811206,(98CG859:26.095265,98CG905:26.095265):5.105191):1.164187,CgCHU05s03.5:37.864642):2.0338,((97CG257:29.94961,((CgCHU33s03.5:30.579258,KTB6tAs97:24.079258):5.794658,(KMST89tAs97:25.628097,((KTB206tAs02:17.314885,Y707123s99:14.314885):10.04876,Y707086s99:24.363645):3.264453):4.245819):1.075694):0.879991,(97CG281:31.510869,((CgARV115s03.5:27.843381,CgCHU17s03.5:27.843381):7.267313,Y768154s00:31.610694):2.900174):0.318733):1.568841):0.892245,(97CG284:28.954178,(KITACD012s00:4.658286,KITACD016s00:4.658286):27.295892):5.336509):0.609947,(CgAS23s03.5:36.261964,CgCHU18s03.5:36.261964):5.13867):1.599244,((K31194s85:7.602982,K31195s85:7.602982):8.125453,KTB002tAs02:32.728436):8.771442):1.9293425,((((((K30750s85:7.250628,Y706993s99:21.250628):4.535777,Y707077s99:25.786406):3.205731,KS095tAs02:31.992136):1.251731,KS110tAs02:33.243867):3.235415,(KTB043tAs02:32.407939,KTB088tAs02:32.407939):4.071343):3.602702,(K32042s85:20.451072,(KMST147tAs97:28.721299,SJDS74tAs97:28.721299):3.729774):2.630913):3.3472355):2.170774,(((((EQS13tAs97:22.5508755,MBTB151tAs02:27.5508755):3.7864565,EQTB54tAs97:26.337332):5.3625695,(((EQS45tAs97:23.6496975,EQS49tAs97:23.6496975):3.4389375,(EQTB81tAs97:23.417763,KTB215tAs02:28.417763):3.670872):2.945393,(EQTB14tAs97:25.283237,EQTB46tAs97:25.283237):4.750791):1.6658735):2.0679075,((EQTB38tAs97:24.0658595,EQTB40tAs97:24.0658595):3.0219855,KS56tAs97:27.087845):6.679965):2.8773455,Y707167s99:38.6451555):3.954839):2.8572395,(((98CG877:34.959461,((KP5tAs97:23.0088995,MBFE118tAs02:28.0088995):8.441495,((((KS015tAs02:26.910089,MBS4tAs97:21.910089):2.662531,MBTB117tAs02:29.57262):1.941139,MBP2tAs97:26.513758):3.127515,(MBTB29tAs97:19.41954,Y723312s99:21.41954):10.221734):1.8091195):2.5090675):5.278281,(((((((((KBS271tAs02:27.286184,KS014tAs02:27.286184):4.641079,(MBFE131tAs02:26.738754,MBTB054tAs02:26.738754):5.18851):1.218998,KS076tAs02:33.146261):3.1389255,((KS019tAs02:29.6608995,MBFE038tAs02:29.6608995):5.0530585,((KS022tAs02:9.997863,KS023tAs02:9.997863):16.310982,KTB093tAs02:26.308845):8.405112):1.5712295):0.7862265,((KIST069tAs02:32.775629,KTB053t02s02:32.775629):0.01,KTB36tAs97:27.6051195):4.4662925):2.600718,((((LBS031tAs02:30.928429,((LBTB043tAs02:20.156104,MBFE190tAs97:15.156104):8.3735825,MBFE155tAs97:23.5296855):2.3987435):3.5095745,(MBTB082tAs02:29.6495695,YBDK56s99:26.6495695):4.788434):2.1594255,(((MBFE191tAs97:20.714422,MBTB140tAs02:25.714422):2.793706,MBFE78tAs97:23.508127):1.6221595,MBFE244tAs97:25.1302875):6.4671415):1.767888,MBDS17tAs97:33.365318):1.306814):0.28847,(((KS050tAs02:31.270585,MBS341tAs97:26.270585):5.55187,LBS018tAs02:36.822455):1.66358,((LBS051tAs02:28.039073,MBS7tAs97:23.039073):5.381351,MBFE101tAs02:33.420424):5.065611):1.474567):2.7922905,((MBFE149tAs97:21.37335,MBS77t02s97:21.37335):3.155647,(MBTB044tAs02:12.238897,MBTB052tAs02:12.238897):17.2901):13.2238955):0.01,(KTB20tAs97:28.234207,LBTB073tAs02:33.234207):7.870933):3.132601):2.423531,((((((K31496s85:15.890748,(KSTB024tAs02:29.288429,Y703911s99:26.288429):3.602319):3.953106,((KFE326tAs97:22.935864,KITACD106s01:26.935864):4.466693,KTB136tAs02:32.402557):4.441297):0.382002,MBS9tAs97:32.225856):0.6959495,Y706600s99:34.9218055):1.157701,(LBR061tAs02:33.085094,Y767923s00:31.085094):5.9944125):1.7146095,((K32170s85:17.2241765,(KIST028tAs02:26.993122,KP183t02s02:26.993121):7.2310555):2.57123,((KFE010tAs02:33.746083,(KSS048tAs02:26.473137,KTB44tAs97:21.473137):7.272947):2.4227055,KTB235tAs02:36.1687905):0.626617):3.9987085):5.867157):1.795962):2.674162,((((KBS292tAs02:26.943745,SJFE26tAs97:21.943745):3.103108,MBTB079tAs02:30.046852):2.424917,MBS28tAs97:27.471769):9.002413,((((KFE071tAs02:31.232719,((KFE288tAs97:0.842523,KP125tAs02:5.842523):3.527664,Y707144s99:6.370187):21.862532):4.581336,((KMST50tAs97:26.013289,KS14tAs97:26.013289):1.987819,(KS070tAs02:30.1930055,(MBFE5tAs97:21.9507095,MBTB108tAs02:26.9507095):3.242296):2.8081025):2.812947):1.889275,KITACD208s01:36.70333):1.4473875,LBTB106tAs02:39.1507185):2.3234645):9.657213):0.0529175,((((EQS15tAs97:30.873892,((KS097tAs02:32.95665,MBCD5tAs97:27.956649):2.1315665,LBS033tAs02:35.0882155):0.7856765):2.287224,(KP36tAs97:28.2316015,(KS078tAs02:29.450109,KTB130tAs02:29.450109):3.7814935):4.9295145):2.843887,(LBTB013tAs02:30.820437,Y707132s99:27.820437):10.184565):4.652008,((KITACD019s00:27.039656,(KITACD209s01:9.99804,KTB035tAs02:10.99804):18.041616):10.599488,Y707089s99:36.639144):6.017868):5.5273005):1.998875):0.01,((EQTB66t11s97:31.07495,(KTB124tAs97:28.498103,(MBFE073tAs02:29.53186,MBTB085tAs02:29.53186):3.966243):2.576847):3.797213,(KTB134tAs02:31.8020485,KTB16tAs97:26.8020495):8.0701155):11.46269):6.933191,((((97CG276:33.0416335,(KP82tAs97:22.132596,(KP86tAs97:18.730449,KP89tAs97:18.730449):3.402147):10.9090375):2.554894,((((CgARV116s03.5:7.730329,CgARV117s03.5:7.730329):31.820406,KS035tAs02:38.050735):0.180103,CgCHU01s03.5:39.730838):1.441995,Y707131s99:36.672833):0.9236945):3.9709625,KS080tAs02:44.56749):10.057545,((EQS8tKs97:48.019573,KS55tAs97:48.019571):1.082086,((((K30691s85:17.7296095,SJDS15tA2s97:29.7296085):2.3839575,((KFE4tAs97:24.231841,KS10tAs97:24.231841):6.222668,(KSS004tA2s02:29.4940005,Y707067s99:26.4940005):5.9605075):1.659058):2.3244535,KTB48tAs97:34.4380205):14.2996815,(((KCC2tAs97:8.026458,KCC3tAs97:8.026458):25.2097005,KTB13tAs97:33.2361585):12.6275695,(((((KFE267s97:17.084537,Y707119s99:19.084537):8.060237,KTB119s97:25.144774):2.2265595,KS072tUs02:32.3713335):3.122613,((KS069tUs02:28.35769,MBFE250s97:23.35769):3.081602,MBTB047tUs02:31.439291):4.0546555):3.0572755,((LBTB032tUs02:33.023038,LBTB084tUs02:33.023038):2.045958,LBTB039tUs02:35.068996):3.482226):12.312505):2.873973):0.363958):0.523376):3.643011):4.040678,((((((96CG12:23.1795245,KTB185tAs97:24.1795245):3.7357235,KTB145tAs02:32.915248):8.112238,(CgARV75s03.5:37.9194875,(((K32047s85:11.3201235,KCD9tAs97:23.3201235):7.2832485,(KS5tAs97:26.389763,SJDS17tAs97:26.389763):4.213609):0.666699,Y706598s99:33.270071):0.1494165):4.6079985):0.6772315,(((((97CG282:25.48751,(98CG879:13.543425,CgCHU45s03.5:19.043425):12.944085):3.394352,(CgARV04s03.5:33.537557,CgCHU04s03.5:33.537557):1.844305):4.472471,(KFE58tAs97:28.768107,((KITACD101s01:6.139172,KS024tAs02:7.139172):3.017719,(KITACD114s01:6.962251,KS025tAs02:7.962251):2.19464):23.611216):4.586226):1.103858,((EQTB52tAs97:26.345856,(KSFE061tUs02:28.742908,MBFE185tAs97:23.742908):2.602948):3.165175,((MBS12tAs97:9.813452,MBS23tAs97:9.813452):10.353511,MBS30tAs97:20.166963):9.344068):4.94716):2.0997915,(KP84tAs97:27.9952185,(KS043tAs02:31.850949,Y705778s99:28.850949):1.1442695):8.562765):0.146734):4.3841315,(((CgCHU50s03.5:35.31389,KP061tAs02:33.81389):3.3224405,KP097tAs02:37.1363305):2.5678375,KP042tAs02:39.704168):6.38468):7.623199,(KP18tAs97:36.593762,(KP28tAs97:29.7106785,(KP78tAs97:27.4540595,MBS63tAs97:27.4540595):2.256619):6.8830835):12.118285):8.596677):9.669805,((((((((((((96CG13:24.644362,98CG914:26.644362):4.665949,KIST032tGs02:35.310311):1.78273,(((96CG22a:19.4784075,96CG22b:19.4784075):7.567563,((96CG38:20.646588,K30008s85:9.646588):4.570426,(CgARV76s03.5:28.058159,KIST016tGs02:26.558159):4.658856):1.8289555):1.5238485,(K31899s85:11.5356105,Y707124s99:25.5356105):6.0342075):2.523222):0.01,(((98CG858:25.070334,CgCP06s03.5:30.570334):3.49125,98CG867:28.561583):5.026237,((CgARV101s03.5:16.790922,CgARV138s03.5:16.790922):15.299928,KFE77tGs97:25.59085):6.996971):0.01):1.1769505,((((97CG315:22.051868,CgCHU06s03.5:28.551868):3.7549,96CG30:24.806768):3.230805,KFE181tGs97:29.037572):1.986431,98CG897:32.024003):2.068965):4.324733,(((98CG922:29.801895,CgCHU02s03.5:35.301895):2.4478275,CgARV41s03.5:37.7497225):4.3414595,(98CG887:26.1638905,CgCHU38s03.5:31.6638905):10.4272915):1.82652):6.4172375,((((((97CG313:30.287762,(KTB021tGs02:32.266104,LBS010tGs02:32.266105):3.021658):5.595569,(K31149s85:21.597332,(KTB185tGs02:32.582079,Y705535s99:29.582079):6.015253):2.285999):1.335563,KSS046tGs02:42.218894):1.021229,(((((CgCHU56s03.5:29.866785,YBDK52s99:25.366786):5.128302,(KS30tGs97:23.912837,KSTB008tGs02:28.912837):4.582251):3.543569,(KMST10tGs97:28.509398,(MBFE91tGs97:24.807953,Y705331s99:26.807952):3.701446):3.529258):3.126378,(((KP122tGs02:30.643132,Y707017s99:27.643132):3.096226,LBIST051tGs02:33.739358):4.485497,((KP176tGs02:7.072143,KP182tGs02:7.072143):27.34529,(LBS035tGs02:30.0341375,LBTB095tGs02:30.0341375):4.3832955):3.807422):1.940179):1.837387,((KP173tGs02:30.099861,KS27tGs97:25.099861):3.423692,KS004tGs02:33.523553):8.478869):1.237702):2.786429,(((((((98CG874:26.125392,Y756072s99:27.125392):1.296952,KMST85tGs97:26.422343):1.7561,KSS039tGs02:33.178444):2.031732,KSS042tGs02:35.210176):4.517423,(KIST046tGs02:34.061189,Y706996s99:31.06119):5.666409):0.678654,(((KMST100tGs97:25.327327,KP130tGs02:30.327327):3.869278,(MBTB023tGs02:27.446382,MBTB7tGs97:22.446382):6.750223):4.5572855,((KTB228tGs02:27.4717555,Y767915s00:25.4717555):6.1418315,(Y768718s00:28.530816,YBDK29s99:27.530816):3.082772):5.1403025):1.6523615):3.583469,(((CgARV109s03.5:32.5768105,KTB142tGs97:26.0768105):5.626616,(Y706604s99:29.4084645,(Y707125s99:25.488924,Y754304s99:25.488925):3.9195405):4.294962):4.4087695,((CgCHU13s03.5:35.111239,KS4tGs97:28.611239):3.299936,((KP088tGs02:28.8261255,LBS022tGs02:28.8261255):3.5758335,KTB195tGs02:32.401959):4.509216):4.201021):2.877525):2.036831):1.990317,((((CgARV55Es03.5:34.369228,Y766474s99:29.869228):5.024084,((CgCHU11s03.5:33.277789,KTB18tGs97:26.777789):3.09751,K30582s85:17.875299):3.018013):2.482957,KTB56tGs97:35.376269):5.093717,((((CgCHU47s03.5:32.169641,KP96tGs97:25.669641):5.052094,(KCC1tGs97:25.744559,LBIST052tGs02:30.744559):4.977176):1.433315,KP74tGs97:32.15505):5.175568,(((KS051tUs02:30.332217,KTB168tGs02:30.332217):6.053478,KSS012tGs02:36.385696):2.4994415,KTB184tUs02:38.8851365):3.4454805):3.139369):2.546882):0.8180705):1.7802965,(K32290s85:21.414584,(KITACD009s00:0.318113,KITACD111s01:1.318113):36.096471):12.200652):3.0496935,K30084s85:36.6649295):2.7011785,((KMST135s97:28.748993,Y701129s99:30.748993):13.370216,((((KP141tGs02:10.027295,KTB123tGs02:10.027295):18.21453,YBDK26s99:25.241824):6.076153,(KS108tGs02:28.647107,KTB22s97:23.647107):5.670871):5.8752475,(LBS044tUs02:35.672089,Y723085s99:32.672089):4.5211355):6.9259845):9.246899):6.3479915,(((((((97CG305:21.192451,CgARV60s03.5:27.692451):9.244389,(KIST121tJs02:25.957815,MBFE311tJs02:25.957815):9.479025):2.2712275,KS22tJs97:32.7080665):3.0046395,KTB147tJs97:35.712706):1.453091,((CgCHU37s03.5:36.11987,((KP88tJs97:25.38535,LBS002tJs02:30.38535):2.067845,KTB238tJs02:32.453195):2.166675):3.197664,(MBS41tJs97:30.5887175,Y706624s99:32.5887165):2.2288165):4.348264):5.601025,(((97CG311:25.119587,KTB14tJs97:25.119587):7.305497,MBTB4tJs97:32.425084):4.055343,((CgCHU46s03.5:34.125526,(KFE339tJs97:21.730809,MBTB090tJs02:26.730809):5.894717):4.142709,MBTB138tJs02:36.768235):4.712192):6.286396):10.882319,((EQS29s97:40.0844,(KMST120s97:25.380072,YBDK67s99:27.380072):14.704327):11.21285,(K31917s85:23.580636,KS16tJs97:35.580636):15.716614):2.351892):4.0649575):6.976283,(((((((((((((96CG16:22.048606,KSFE110tHs02:28.048606):2.2376475,KSTB022tHs02:30.2862525):2.5743185,(98CG900:24.488282,CgARV67s03.5:29.988282):4.37229):1.125478,98CG904:29.98605):0.500372,(98CG912:27.841803,KIST061tHs02:31.841803):2.644619):1.265414,CgCP07s03.5:37.251835):3.419349,((KIST081tHs02:28.8740025,KP63tHs97:23.8740025):3.0825835,KP93tHs97:26.956586):7.214598):2.237968,((97CG316:28.813532,KTB158tHs97:28.813533):4.738125,(KS18tHs97:27.823196,YBDK64s99:29.823196):5.728462):2.857495):1.417787,(98CG853:31.30058,KP152tHs02:35.30058):7.52636):6.71786,(96CG27:35.112177,(EQTB1tHs97:32.18034,((KP166tHs02:8.578773,Y700078s99:5.578773):12.541224,Y706645s99:18.119997):16.060342):3.931837):8.432623):0.01,((((((96CG23:22.976561,97CG275:23.976561):4.240116,97CG314:28.216676):4.4301135,(CgCHU14s03.5:37.201601,KTB62tHs97:30.7016):1.9451895):0.9398435,(CgCP04s03.5:33.397529,KTB032tHs02:31.897529):6.689104):1.468167,(98CG861:31.5784415,CgARV48s03.5:37.0784415):4.4763595):3.488126,(EQTB80tHs97:30.732841,(KS42tHs97:29.238505,KTB176tHs97:29.238505):1.494336):7.810086):4.484896):5.000379,(((((98CG896:26.351186,KSS023tHs02:30.351186):4.616895,KS033tHs02:34.968081):4.056855,((((CgARV111s03.5:33.7150575,MBTB148tHs02:32.2150575):1.8404395,(CgCP11s03.5:30.568232,CgCP15s03.5:30.568232):4.987266):2.239425,KTB32tHs97:31.294923):0.94717,KS43tHs97:32.242093):1.782844):2.269185,((CgARV94s03.5:36.0146535,LBTB031tHs02:34.5146535):3.1478195,KTB52tHs97:32.662473):3.631648):3.594176,((CgCP14s03.5:33.58467,KTB026tHs02:32.08467):7.064222,((((K31335s85:12.3846795,KS018tHs02:29.3846795):6.0366975,(((KBS187tHs02:28.149227,KTB140tHs97:23.149227):2.6425675,KMST43tHs97:25.7917945):1.9203965,KTB188tHs97:27.712191):2.709186):0.9433425,KCD2tHs97:31.3647195):0.9158935,KS38tHs97:32.280613):1.868279):5.739406):8.139904):13.07082,((((((((((EQS21tAEs97:22.415901,Y768856s00:25.415901):3.48875,Y768985s99:27.90465):1.510391,(KP14tAEs97:23.0888015,KTB231t01s02:28.0888015):4.3262395):1.01087,K32154s85:16.425911):0.963662,(K31265s85:12.570238,LBTB037t01s02:29.570238):4.819336):1.74227,((K30487s85:9.6518995,Y769053s00:24.6518995):8.1010835,(KP180t01s02:28.911309,KTB038t01s02:28.911309):5.841674):1.37886):2.120001,EQTB60tAEs97:33.251844):13.2408615,((KFE45s97:25.8718885,KITACD107s01:29.8718885):7.6651225,(KTB050tCPXs02:34.8642375,(KTB49s97:26.062067,LBR024tCPXs02:31.062068):3.8021705):3.6727735):12.9556945):7.4572605,Y768551s00:56.949966):4.591445,((KITACD003s00:30.336154,KITACD123s01:31.336154):26.126519,KMST91s97:53.462673):5.078737):2.557611):3.5913605):2.2881475):4.272413,((((((((((((96CG14:28.142733,KTB156tDs02:34.142733):0.8136775,KSS047tDs02:34.9564105):3.1947825,(KTB23tDs97:29.909715,MBFE015tDs02:34.909715):3.241478):2.249413,(((((CgCHU29s03.5:30.744551,K30042s85:12.244551):3.432145,(KP163tDs02:29.7420295,KSS030tDs02:29.7420295):2.9346665):2.704915,(((KIST132tDs02:28.289781,KSFE141tDs02:28.289781):3.140732,(KMST30tDs97:23.356389,KP1tDs97:23.356389):3.074124):1.5074095,MBTB152tDs02:32.9379225):2.4436885):3.3366295,(((K31252s85:14.120441,KS075tDs02:31.120441):5.7544255,(K31331s85:13.934578,KTB27tDs97:25.934578):5.9402885):0.3004485,(KP133tDs02:29.63688,LBS038tDs02:29.63688):7.538435):1.5429255):0.143039,(MBS342tDs97:28.308784,Y768268s00:31.308784):5.5524955):1.5393265):2.5812735,(((98CG918:33.632652,((KMST66tDs97:22.323604,Y768451s00:25.323604):8.224659,KTB181tDs97:30.548263):2.084389):0.01,CgCHU35s03.5:38.487555):4.354935,(((((((CgCHU27s03.5:29.708642,KIST103tDs02:28.208642):4.251363,MBFE252tDs02:32.460005):0.962843,CgCHU53s03.5:34.922848):1.5289305,KP063tDs02:34.9517785):3.7364785,(KS26tDs97:26.5083295,Y707042s99:28.5083295):7.1799275):1.044325,(((KP44tDs97:3.27235,Y706633s99:5.27235):23.0896625,((KP54tDs97:21.02458,KS2tDs97:21.02458):2.351104,Y766612s00:26.375684):2.9863285):4.3224595,LBDS001tDs02:35.684472):4.04811):0.5103355,((K30432s85:19.5826585,((K31166s85:16.804694,(KTB154tDs02:29.5785475,LBFE012tDs02:29.5785475):4.2261465):2.087842,(KTB008tDs02:28.888144,Y723480s99:25.888144):7.004392):0.6901225):1.8132785,(K30858s85:15.172261,KMST144tDs97:27.172261):6.223676):1.8469805):1.0995725):1.6393895):0.131398,(MBS55tDs97:24.144408,MBS56tDs97:24.144408):13.9688695):4.6413225,((((((((98CG910:24.961973,KTB144tDs02:28.961973):6.085997,(CgARV112s03.5:32.411798,K32130s85:13.911798):4.136172):2.949371,(CgCHU07s03.5:35.827492,(KP118tUs02:27.933801,KS009tDs02:27.933801):6.393691):3.669849):1.2538325,KS29tDs97:34.2511735):0.460767,KTB173tDs02:39.7119405):1.232337,((((((CgARV47s03.5:29.832742,CgCP03s03.5:29.832742):7.5293575,((KFE53tDs97:24.784239,LBS043tUs02:29.784239):2.76936,KS39tDs97:27.553599):3.3085005):0.1814035,LBR032tDs02:36.043503):0.4988315,(KP154tDs02:28.261259,Y723245s99:25.261259):8.2810755):1.484246,((KCD4tDs97:26.283722,KSS006tDs02:31.283722):2.9982505,KMST126tDs97:29.2819725):3.744608):1.903325,(((((CgCHU19s03.5:23.066836,KTB089tDs02:21.566836):5.533034,Y768898s00:25.09987):3.106619,KS047tDs02:30.206489):1.445607,K31688s85:14.652096):5.4430935,(KITACD004s00:27.6018125,KTB229tDs02:29.6018125):7.493377):2.834716):1.014372):1.1840955,((CgCHU48s03.5:29.9056045,KP174tDs02:28.4056045):4.6381415,KTB4tDs97:28.043746):9.084627):0.94036,(((K31533s85:14.0207995,KS11tDs97:26.0207995):3.3757645,MBTB115tDs02:34.396564):7.173564,((KS15tDs97:25.468734,YBDK45s99:27.468734):8.327036,(KTB122tDs02:35.48458,(KTB124tDs02:32.324347,MBS35tDs97:27.324347):3.160233):3.31119):2.774358):1.498605):4.685867):2.487677,K30884s85:33.242277):4.808983,ZR_59:9.026493):4.254954,(((((((B_CA_CANs82:9.455585,B_TT_QH0679s94:21.455585):5.5490775,(((B_HT_HT594s92:5.100532,B_HT_HT596s92:5.100532):17.5987635,(B_HT_HT599s92:20.861322,((B_TT_QH0016s93:14.773244,B_TT_QH1420s96:17.773244):3.0515165,(B_TT_QH0515s94:13.7937885,B_TT_QH1116s95:14.7937885):5.030972):4.0365615):1.8379735):1.2838435,B_US_H5s82:13.983139):1.0215235):0.3826405,((((B_TT_QH0020s94:17.392398,B_TT_QH0791s95:18.392398):2.106629,(B_TT_QH0136s94:17.233517,B_TT_QH0908s95:18.233517):2.26551):1.375778,B_TT_QH0605s94:20.874805):3.244115,B_TT_QH0060s94:24.11892):3.268383):1.680436,(B_US_1304s96:27.5670335,B_US_WCIPRs85:16.5670335):3.5007055):3.431557,((((((B_HT_HT593s92:24.949305,(B_US_DH12s91:19.607026,B_US_SF33s84:12.607026):4.342279):0.3379975,B_US_MNCGs84:17.2873025):0.5506795,B_US_P896s89:22.837982):0.994612,((((B_HT_HT651s91:18.622889,B_US_RFs83:10.622889):2.20048,B_US_H7s83:12.823369):1.446919,B_HT_HT652s91:22.270288):1.49376,(B_US_H3s82:10.010388,B_US_US4s90:18.010388):4.75366):2.068546):0.585897,((((((B_US_BCs87:14.9874995,B_US_GAs81:8.9874995):3.5019245,((((B_US_CA1s81:10.832778,B_US_US712s91:20.832778):0.01,B_US_SFMHS4s86:14.7585805):1.5191815,(((B_US_CA2s81:8.364306,(B_US_NY2s81:6.6420485,B_US_SFMHS7s87:12.6420485):1.7222575):1.684295,(B_US_SFAs79:5.007656,((B_US_SFBs78:2.187946,B_US_SFCs78:2.187946):1.4416935,B_US_SFDs78:3.6296395):0.3780165):3.040945):0.348478,B_US_NJs81:10.397079):0.880683):0.356579,B_US_SFMHS6s88:18.634341):0.855083):1.528808,((B_US_NY1s81:7.456506,B_US_NY3s81:7.456506):4.3855605,B_US_SFMHS19s88:18.8420665):2.1761655):1.7701685,((((B_US_CDC451s84:11.706466,B_US_WEAUs90:17.706466):2.821399,B_US_US3s90:20.527865):0.4312215,B_US_NY5CGs84:14.9590865):2.2165385,(B_US_H2s82:12.664154,B_US_SFMHS3s85:15.664154):2.511471):1.6127755):0.01,((B_US_CC1s85:14.007834,B_US_WMJ22s85:14.007834):2.7645275,(B_US_H6s83:11.925883,(B_US_US056s91:18.063312,B_US_US1s90:17.063312):1.862571):2.8464785):2.327025):0.01,B_US_US073s93:27.018911):1.39958):0.643098,(((B_US_C05Ds94:23.677126,B_US_US2s90:19.677126):2.012928,(B_US_C10s95:21.782389,B_US_C11s95:21.782389):4.907665):2.304826,((B_US_C09Bs94:22.1113,B_US_C14s97:25.1113):3.118675,B_US_SF2B13s83:14.229975):2.764905):2.066709):2.437707):0.5560245,B_US_US657s92:31.0553205):3.1085275,B_US_ARES2s97:39.163848):15.142366):9.185844,(((((((((((98CG869:26.072502,KP35tF1s97:25.072502):3.74399,((KP186tUs02:27.8702225,KTB50tF1s97:22.8702225):3.356029,(KP40tF1s97:22.189197,KTB136tF1s97:22.189197):4.0370545):2.5902415):1.88736,((CgCHU08s03.5:32.145699,Y764299s99:27.645699):4.228282,(KTB041tF1s02:25.97761,Y707186s99:22.97761):8.896371):0.829871):1.48818,KBS154tF1s02:37.192032):2.4294835,((((((CgCHU31s03.5:28.0613165,LBTB018t05s02:26.5613165):1.970693,(KP149t05s02:20.1970985,KP85t05s97:15.1970985):8.334911):1.6434875,MBFE183tF1s97:25.175497):2.571936,(K31821s85:12.415433,(KS017t05s02:27.3068565,(LBS012t05s02:17.308442,LBTB094t05s02:17.308442):9.9984145):2.1085775):3.331999):4.0533265,(KP172tUs02:32.4689315,(KS50tF1s97:25.77303,KTB165tF1s97:25.773029):1.6959025):4.331827):0.1751215,K30793s85:19.975881):2.6456355):3.9860765,(KSFE047tUs02:37.463153,KTB220tUs02:37.463153):6.144439):6.361156,((98CG893:27.76824,KMST143tF2s97:26.76824):14.704163,Y707136s99:43.472404):3.496344):5.410217,((((((98CG908:26.005968,KTB111tKs97:25.005968):3.6963355,KP13tKs97:28.7023035):1.062246,KS059tKs02:34.7645495):1.8603665,MBFE71tKs97:31.624916):2.420847,KIST040tKs02:39.045763):5.320852,((((EQTB43tKs97:26.951235,K31184s85:14.951235):4.186242,(KP156tKs02:30.862165,KTB160tKs97:25.862165):5.275311):4.1568545,(KP043tKs02:31.766001,KTB17s97:26.766001):8.5283305):1.3173065,KTB1tKs97:36.611638):2.754977):11.012349):0.609836,((CgCHU15s03.5:36.799779,(KP98tKs97:25.934797,KTB183tUs02:30.934797):4.364982):12.556038,((EQTB50s97:24.7863065,KFE068tUs02:29.7863065):5.4423195,KTB54s97:30.228626):12.62719):8.132984):1.187399,EQS16s97:52.1762):2.506589,KTB028tUs02:59.682789):8.809269):2.092037,((((((((C_BI_BU910815s91:21.183182,MBFE14tCs97:27.183182):6.390896,(((C_KE_MCH2126Ds87:19.9240615,((C_TZ_98TZ017s98:26.405898,KP031tCs02:30.405898):3.738857,(C_ZA_LT50s99:25.48038,KIST104tCs02:28.480381):5.664374):0.7793065):1.244208,((KTB098tCs02:30.395903,LBTB051tCs02:30.395903):2.314489,LBS036tCs02:32.710393):3.4578765):0.01,(KP085tCs02:27.285029,MBFE300tCs97:22.285029):8.665667):2.623382):4.666806,(((C_ET_ETH2220s86:16.60198,C_UG_UG268A2s90:20.60198):4.792965,(C_ZA_05_CAP08_2_E4Js00:32.4037855,(((KITACD005s00:0.311212,KITACD129s01:1.311212):24.259815,MBFE34tCs97:21.571027):5.68653,MBS37tCs97:27.257557):2.1462285):2.9911595):3.4056205,((((KTB085tCs02:29.351842,Y765540s99:26.351842):4.901142,Y766625s00:32.252985):1.6308195,MBFE117tCs02:35.8838035):2.9535585,Y706653s99:35.837362):1.9632035):2.4403185):3.703528,(((((((((((C_BW_00BW087421s00:30.3512075,(((C_MW_93MW960s93:18.078806,MBTB10tCs97:22.078806):2.184858,C_SO_89SM_145s89:16.263664):1.8761925,C_ZA_TV003s98:27.1398565):1.211351):0.9358745,((C_BW_00BW38193s00:25.037635,C_KE_KER2010s00:25.037635):4.054815,((C_BW_96BW17s96:21.798339,LBS017tCs02:27.798339):2.38541,LBTB021tCs02:30.183749):0.908701):2.194632):1.0114335,(C_ZA_Dlus90:14.469605,C_ZA_GOMs90:14.469605):7.8289115):1.7068995,(C_ZM_ZM18s89:18.960678,Y707118s99:28.960678):4.044738):1.3933485,((C_ZA_98ZA502s98:29.398413,(C_ZA_TV010s98:27.809396,(KTB171tCs02:27.5519385,LBFE069tCs02:27.5519385):4.2574575):1.589017):0.609718,C_ZA_TV006Bs98:30.008131):3.3906335):0.1969295,((C_TZ_CO3305s02:31.908634,((C_ZA_TV004s98:23.595107,KP096tCs02:27.595107):4.104198,LBIST037tCs02:31.699306):0.209328):0.6355885,C_ZM_ZM249Ms03:33.5442225):5.0514725):1.029658,((((C_BW_00BW3970_2s00:25.174481,C_ZA_03ZASK107B1s03:28.174482):2.760885,C_ZA_03ZAPS140MB1s03:30.935367):2.991174,((C_TZ_01TZ_BD911s01:27.550218,KFE372tCs97:23.550218):3.779001,(C_ZA_04_CAP61_2_F10Js00:26.902379,C_ZA_TV008As98:24.902379):3.42684):0.597321):4.092964,(((C_ZA_03ZAPS152MB1s03:30.214311,(LBS004tCs02:28.1335275,LBTB038tCs02:28.1335275):1.0807815):3.398473,(C_ZA_1170MBs00:27.6962415,MBTB58tCs97:24.6962415):2.9165415):2.698159,LBTB027tCs02:35.310941):1.708563):1.605848):4.000283,((C_BW_00BW38713s00:29.742912,KS021tCs02:31.742912):8.069146,(((((C_MW_SM750s89:16.592428,LBTB072tCs02:29.592428):3.7394595,((C_TZ_CO6721s02:25.282687,LBTB087tCs02:25.282687):2.815258,LBS054tCs02:28.097945):5.2339425):1.2014315,MBTB037tCs02:34.53332):1.437655,(C_ZA_04ZASK170B1s04:30.806783,LBTB019tCs02:28.806783):7.164191):2.548132,((((C_ZA_03ZASK072B1s03:28.525722,C_ZA_03ZASK118B1s03:28.525722):2.008218,C_ZA_DU123s99:26.53394):2.99937,(C_ZA_1176MBs00:24.07607,C_ZA_1192M3Ms00:24.07607):6.45724):3.971223,((C_ZA_04ZAPS165MB1s04:30.1660395,C_ZA_05ZASK243B1s05:31.1660395):6.1410465,((((C_ZA_04ZAPS201B1s04:25.297042,C_ZA_04ZASK182B1s04:25.297042):3.639787,KP094tCs02:26.936828):2.1131965,C_ZA_Du156s99:26.0500255):3.4189755,(C_ZA_LT39s99:24.599972,C_ZA_RP4s02:27.599972):4.869028):1.838085):2.197447):2.014573):1.292952):2.813578):0.173089,(((C_ZA_03ZAPS067MB2s03:32.133897,KTB110tCs97:26.133897):2.952524,LBTB062tCs02:34.086421):2.182475,MBTB11tCs97:31.268895):6.529829):0.585494,((((((C_BW_96BW0402s96:25.362856,(C_ZA_04ZASK176B1s04:32.068207,LBS049tCs02:30.068207):1.294649):6.002749,((((((C_BW_96BW16B01s96:23.391577,C_ZM_02ZM112s02:29.391577):1.344159,(C_ZA_03ZASK034B1s03:30.4065585,KP032tCs02:29.4065585):1.3291775):3.892416,((C_MW_959s93:18.731874,MBTB011tCs02:27.731874):1.48783,LBR074tCs02:29.219704):5.408447):0.0635435,((C_TZ_A388s01:22.42584,C_ZA_04ZASK171B1s04:25.42584):9.1768535,(LBTB040tCs02:30.506938,MBFE92tCs97:25.506939):2.0957555):2.089002):0.5960895,((C_ZA_LT45s99:24.883234,C_ZA_SK112B1s03:28.883234):3.309295,LBS053tCs02:31.192529):4.095256):1.612228,(KS082tCs02:32.7525115,(LBTB064tCs02:29.702826,SJFE59tCs97:24.702825):3.0496855):4.1475025):0.465592):0.846298,MBTB116tCs02:38.211903):1.168148,(((C_ZA_03ZAPS073MB1s03:37.898964,((LBS042tCs02:28.1918595,LBS055tCs02:28.1918595):6.041864,MBS80tCs97:29.2337235):2.6652405):2.2619915,((KITACD122s01:28.851243,MBFE61tCs97:24.851243):1.372555,LBTB102tCs02:31.223798):7.9371575):1.5868915,(LBDS072tCs02:30.846301,LBIST016tCs02:30.8463):9.901546):0.01):0.150305,C_BW_96BW0502s96:33.530356):2.456601,C_BW_96BW15B03s96:35.986957):1.397261):0.965465,(((((C_BW_96BW1106s96:21.1386065,C_ZM_02ZM114s02:27.1386065):3.550664,C_ZA_TV012As98:26.6892705):6.1777665,((((((C_ZA_LT17s99:26.1014005,LBIST021tCs02:29.1013995):1.6746855,LBTB011tCs02:30.776086):1.644503,(KSS055tCs02:26.5233595,LBS029tCs02:26.5233595):5.8972295):2.58524,LBFE106tCs02:35.005828):0.720284,KP092tCs02:35.726113):0.664831,LBTB052tCs02:36.390945):0.476094):1.024367,(C_MW_93MW_965s93:21.497693,LBR025tCs02:30.497693):7.393711):1.86409,(C_SN_90SE_364s90:23.552272,((LBDS078tCs02:30.6934345,(LBR075tCs02:29.238528,LBS019tCs02:29.238528):1.4549065):2.5906735,LBIST043tCs02:33.284109):2.268163):4.203223):4.594188):2.594729):3.815058,(((K30812s85:13.074161,KCD11tCs97:25.074161):9.073801,(KS040tCs02:31.505332,MBTB13tCs97:26.505332):7.642629):3.4787395,(LBS045tCs02:30.2184205,LBS048tCs02:30.2184205):12.408281):8.1327685):0.01,(K30326s85:21.223094,LBTB028tCs02:38.223094):11.952883):2.4873595,MBTB041tCs02:52.6633365):6.1815685,(((K31602s85:14.589194,((MBS20tCs97:24.8384185,(MBTB098tCs02:28.142979,MBTB3tCs97:23.14298):1.6954385):1.016059,MBTB127tCs02:30.8544765):0.7347165):2.771323,MBS33tCs97:29.360517):5.458119,(KP053tCs02:32.2804005,LBTB046tCs02:32.2804005):7.5382355):19.026269):11.739189):5.666847);
+	</newick>
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<strictClockBranchRates id="geography.branchRates">
+		<rate>
+			<parameter id="geography.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<generalSubstitutionModel id="geography.model">
+		<generalDataType idref="geography.dataType"/>
+		<frequencies>
+			<frequencyModel id="geography.frequencyModel" normalize="true">
+				<generalDataType idref="geography.dataType"/>
+				<frequencies>
+					<parameter id="geography.frequencies" dimension="10"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="geography.rates" dimension="45" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="geography.indicators" dimension="45" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="geography.nonZeroRates" elementwise="true">
+		<parameter idref="geography.indicators"/>
+	</sumStatistic>
+	<siteModel id="geography.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="geography.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<markovJumpsTreeLikelihood id="geography.treeLikelihood" useUniformization="true" saveCompleteHistory="true" logCompleteHistory="true" compactHistory="true">
+		<attributePatterns idref="geography.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="geography.siteModel"/>
+		<generalSubstitutionModel idref="geography.model"/>
+		<strictClockBranchRates idref="geography.branchRates"/>
+
+	</markovJumpsTreeLikelihood>
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="15">
+			<parameter idref="geography.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="24" scaleAllIndependently="true">
+			<parameter idref="geography.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="geography.indicators"/>
+		</bitFlipOperator>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" adaptationDelay="200000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="geography.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.693147180559945" offset="9">
+					<statistic idref="geography.nonZeroRates"/>
+				</poissonPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="geography.rates"/>
+					</gammaPrior>
+					<parameter idref="geography.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="geography.model"/>
+			</prior>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="2000" fileName="HIV_datasetB_completeHistory.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<parameter idref="geography.rates"/>
+			<parameter idref="geography.indicators"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+			<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="2000" nexusFormat="true" fileName="HIV_datasetB_completeHistory.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+		</logTree>
+		<log id="historyLogger" logEvery="2000" fileName="HIV_datasetB_completeHistory.txt">
+			<completeHistoryLogger>
+				<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+			</completeHistoryLogger>
+		</log>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>

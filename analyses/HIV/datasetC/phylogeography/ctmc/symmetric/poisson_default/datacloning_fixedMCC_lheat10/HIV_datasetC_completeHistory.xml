@@ -1,0 +1,2018 @@
+<?xml version="1.0" standalone="yes"?>
+<beast>
+	<taxa id="taxa">
+		<taxon id="96CG11">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG12">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG13">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG14">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG17">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG16">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG21">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG27">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG22a">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG22b">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG23">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG24">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG152">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG257">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG275">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG276">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG281">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG282">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG284">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG305">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG307">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG311">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG313">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG314">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG315">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="97CG316">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG39">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG34">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG38">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="96CG30">
+			<date value="1996" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG922">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG853">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG858">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG859">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG861">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG867">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG869">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG874">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG877">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG879">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG887">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG893">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG895">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG896">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG899">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG900">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG904">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG905">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG908">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG910">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG912">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG918">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG897">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="98CG914">
+			<date value="1998" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQFE10t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS13tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS15tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS36tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS48tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB35t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB38tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB3tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB40tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB46tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB54tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB58tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB66t11s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB69tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB81tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB9tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30008s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30042s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30084s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30104s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30105s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30109s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30326s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30432s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30487s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30582s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30620s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30639s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30691s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30750s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30793s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30812s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30858s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30871s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30873s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K30884s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31149s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31166s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31184s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31194s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31195s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31252s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31265s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31331s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31335s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31343s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31496s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31533s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31602s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31648s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31688s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31821s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31857s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31886s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31899s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31917s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K31978s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32042s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32047s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32051s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32130s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32154s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32170s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32253s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="K32290s85">
+			<date value="1985" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KTB16tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP89tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="YBDK64s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KCC1tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP25tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP096tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS7tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS110tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y768856s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707017s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP72tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KTB230tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KCD4tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KIST046tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KTB111tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS040tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KMST144tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="YBDK45s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y768718s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP145tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP98tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS108tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y723480s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y765540s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="YBDK29s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP097tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP156tKs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS014tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KIST061tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS004tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KTB18tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS043tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707025s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP37tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS018tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y706600s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KP031tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y706633s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KTB122tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS080tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707042s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS2tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707086s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KS005tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707119s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y707132s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="Y706624s99">
+			<date value="1999" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSFE047tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSFE061tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSFE110tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSFE141tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSFE142tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS004tA2s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS006tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS012tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS023tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS030tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS039tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS042tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS046tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS047tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS048tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS055tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSS059tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSTB001tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSTB007tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSTB008tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSTB022tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KSTB024tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBDS001tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBDS072tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBDS078tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBFE012tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBFE025tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBFE069tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBFE106tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBFE184tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST016tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST021tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST037tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST043tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST051tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBIST052tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR024tCPXs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR025tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR032tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR060t13s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR061tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR074tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBR075tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS002tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS004tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS010tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS012t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS017tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS018tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS019tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS022tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS023tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS024tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS029tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS031tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS033tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS035tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS036tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS038tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS042tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS043tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS044tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS045tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS048tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS049tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS050tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS051tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS053tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS054tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBS055tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB011tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB018t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB019tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB021tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB027tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB028tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB031tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB032tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB037t01s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB038tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB039tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB040tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB043tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB045tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB046tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB051tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB052tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB062tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB064tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB072tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB073tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB084tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB087tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB094t05s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB095tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB102tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="LBTB106tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE015tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE038tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE073tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE101tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE117tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE118tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE131tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE161tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE190tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE191tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE194tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE243tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE252tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE311tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS23tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS77t02s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB011tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB012tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB013tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB019tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB022t02s02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB023tGs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB030tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB037tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB041tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB044tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB047tUs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB052tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB054tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB079tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB082tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB083tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB085tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB088tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB090tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB098tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB108tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB115tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB116tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB117tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB127tCs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB138tJs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB140tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB148tHs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB151tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB152tDs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB157tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB159tAs02">
+			<date value="2002" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB43tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD002s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD209s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD014s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD114s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD007s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD020s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD012s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD111s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD106s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD005s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD004s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD019s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD016s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD123s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD101s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD208s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD113s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD003s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD210s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD015s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD122s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD129s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD009s00">
+			<date value="2000" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="KITACD107s01">
+			<date value="2001" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV101s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV109s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV111s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV112s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV115s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV116s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV117s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV138s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV140s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV41s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV47s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV48s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV52s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV53s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV55Es03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV60s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV67s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV75s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV76s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV93s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgARV94s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgAS20s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgAS23s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU01s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU02s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU05s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU06s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU07s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU08s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU09s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU10s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU11s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU12s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU13s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU14s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU15s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU17s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU18s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU19s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU27s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU29s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU30s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU31s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU33s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU35s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU37s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU38s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU43s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU45s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU46s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU47s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU48s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU50s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU53s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCHU56s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP03s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP04s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP06s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP07s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP11s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP14s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="CgCP15s03.5">
+			<date value="2003.5" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS1tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS16s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS18tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS21tAEs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS25tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS29s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS45tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS49tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQS8tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB1tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB14tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB43tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB44tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB50s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB52tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB60tAEs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="EQTB80tHs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBCD5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBDS17tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE14tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE149tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE155tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE183tF1s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE185tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE244tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE247tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE250s97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE300tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE34tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE5tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE61tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE71tKs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE78tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE91tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBFE92tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBP2tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS12tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS20tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS26tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS28tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS30tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS32tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS33tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS341tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS342tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS35tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS37tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS4tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS41tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS55tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS56tDs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS63tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS7tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS80tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBS9tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB10tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB11tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB13tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB29tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB3tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB4tJs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB54tAs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB58tCs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+		<taxon id="MBTB7tGs97">
+			<date value="1997" direction="forwards" units="years"/>
+		</taxon>
+	</taxa>
+
+	<generalDataType id="geography.dataType">
+		<state code="A"/>
+		<state code="B"/>
+		<state code="C"/>
+		<state code="D"/>
+		<state code="E"/>
+		<state code="F"/>
+		<state code="G"/>
+		<state code="H"/>
+	</generalDataType>
+
+	<alignment id="geography">
+	<generalDataType idref="geography.dataType"/>
+		<sequence>	<taxon idref="96CG11"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG12"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG13"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG14"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG17"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG16"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="96CG21"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG27"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG22a"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG22b"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG23"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG24"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG152"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="97CG257"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="97CG275"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG276"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG281"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG282"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG284"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG305"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG307"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG311"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG313"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG314"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG315"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="97CG316"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG39"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG34"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG38"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="96CG30"/>	HHHHHHHHHH	</sequence>
+		<sequence>	<taxon idref="98CG922"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG853"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG858"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG859"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG861"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG867"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG869"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG874"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG877"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG879"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG887"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG893"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG895"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG896"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG899"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG900"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG904"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG905"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG908"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG910"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG912"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG918"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG897"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="98CG914"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="EQFE10t11s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS13tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS15tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS36tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS48tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB35t11s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB38tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB3tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB40tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB46tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB54tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB58tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB66t11s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB69tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB81tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB9tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="K30008s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30042s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30084s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30104s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30105s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30109s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30326s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30432s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30487s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30582s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30620s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30639s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30691s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30750s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30793s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30812s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30858s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30871s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30873s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K30884s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31149s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31166s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31184s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31194s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31195s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31252s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31265s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31331s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31335s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31343s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31496s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31533s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31602s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31648s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31688s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31821s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31857s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31886s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31899s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31917s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K31978s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32042s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32047s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32051s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32130s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32154s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32170s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32253s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="K32290s85"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KTB16tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP89tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="YBDK64s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KCC1tGs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP25tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP096tCs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS7tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS110tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y768856s00"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707017s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP72tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KTB230tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KCD4tDs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KIST046tGs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KTB111tKs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS040tCs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KMST144tDs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="YBDK45s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y768718s00"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP145tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP98tKs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS108tGs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y723480s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y765540s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="YBDK29s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP097tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP156tKs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS014tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KIST061tHs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS004tGs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KTB18tGs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS043tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707025s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP37tAs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS018tHs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y706600s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KP031tCs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y706633s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KTB122tDs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS080tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707042s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS2tDs97"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707086s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KS005tAs02"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707119s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y707132s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="Y706624s99"/>	CCCCCCCCCC	</sequence>
+		<sequence>	<taxon idref="KSFE047tUs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSFE061tUs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSFE110tHs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSFE141tDs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSFE142tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS004tA2s02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS006tDs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS012tGs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS013tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS023tHs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS030tDs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS039tGs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS042tGs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS046tGs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS047tDs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS048tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS055tCs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSS059tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSTB001tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSTB007tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSTB008tGs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSTB022tHs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="KSTB024tAs02"/>	DDDDDDDDDD	</sequence>
+		<sequence>	<taxon idref="LBDS001tDs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBDS072tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBDS078tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBFE012tDs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBFE025tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBFE069tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBFE106tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBFE184tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST016tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST021tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST037tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST043tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST051tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBIST052tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR024tCPXs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR025tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR032tDs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR060t13s02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR061tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR074tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBR075tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS002tJs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS004tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS010tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS012t05s02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS017tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS018tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS019tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS022tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS023tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS024tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS029tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS031tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS033tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS035tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS036tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS038tDs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS042tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS043tUs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS044tUs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS045tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS048tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS049tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS050tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS051tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS053tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS054tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBS055tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB011tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB013tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB018t05s02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB019tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB021tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB027tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB028tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB031tHs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB032tUs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB037t01s02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB038tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB039tUs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB040tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB043tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB045tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB046tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB051tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB052tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB062tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB064tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB072tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB073tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB084tUs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB087tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB094t05s02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB095tGs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB102tCs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="LBTB106tAs02"/>	FFFFFFFFFF	</sequence>
+		<sequence>	<taxon idref="MBFE015tDs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE038tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE073tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE101tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE117tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE118tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE131tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE161tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE190tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE191tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE194tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE243tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE252tDs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE311tJs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS23tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS77t02s97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB011tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB012tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB013tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB019tUs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB022t02s02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB023tGs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB030tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB037tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB041tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB044tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB047tUs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB052tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB054tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB079tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB082tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB083tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB085tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB088tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB090tJs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB098tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB108tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB115tDs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB116tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB117tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB127tCs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB138tJs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB140tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB148tHs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB151tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB152tDs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB157tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB159tAs02"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB43tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="KITACD002s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD209s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD014s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD114s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD007s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD020s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD012s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD111s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD106s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD005s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD004s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD019s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD016s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD123s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD101s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD208s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD113s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD003s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD210s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD015s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD122s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD129s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD009s00"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="KITACD107s01"/>	EEEEEEEEEE	</sequence>
+		<sequence>	<taxon idref="CgARV04s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV101s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV109s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV111s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV112s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV115s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV116s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV117s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV138s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV140s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV41s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV47s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV48s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV52s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV53s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV55Es03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV60s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV67s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV75s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV76s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV93s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgARV94s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgAS20s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgAS23s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU01s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU02s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU04s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU05s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU06s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU07s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU08s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU09s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU10s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU11s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU12s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU13s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU14s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU15s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU17s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU18s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU19s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU27s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU29s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU30s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU31s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU33s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU35s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU37s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU38s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU43s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU45s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU46s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU47s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU48s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU50s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU53s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCHU56s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP03s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP04s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP06s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP07s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP11s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP14s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="CgCP15s03.5"/>	AAAAAAAAAA	</sequence>
+		<sequence>	<taxon idref="EQS1tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS16s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS18tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS21tAEs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS25tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS29s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS45tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS49tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQS8tKs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB1tHs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB14tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB43tKs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB44tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB50s97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB52tAs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB60tAEs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="EQTB80tHs97"/>	BBBBBBBBBB	</sequence>
+		<sequence>	<taxon idref="MBCD5tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBDS17tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE14tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE149tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE155tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE183tF1s97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE185tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE244tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE247tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE250s97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE300tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE34tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE5tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE61tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE71tKs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE78tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE91tGs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBFE92tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBP2tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS12tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS20tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS26tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS28tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS30tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS32tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS33tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS341tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS342tDs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS35tDs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS37tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS4tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS41tJs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS55tDs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS56tDs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS63tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS7tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS80tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBS9tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB10tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB11tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB13tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB29tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB3tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB4tJs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB54tAs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB58tCs97"/>	GGGGGGGGGG	</sequence>
+		<sequence>	<taxon idref="MBTB7tGs97"/>	GGGGGGGGGG	</sequence>
+	</alignment>
+	<patterns id="patterns" from="1" strip="false">
+		<alignment idref="geography"/>
+	</patterns>
+
+	<newick id="startingTree" units="years" usingDates="true">
+		((((((((((((((((((96CG11:31.50081,KP25tAs97:32.50081):3.423571,KITACD210s01:39.924381):5.9305375,((((((CgCHU43s03.5:35.945624,K30109s85:17.445624):4.149766,K31648s85:21.59539):0.191223,LBR060t13s02:38.786613):1.5746235,MBS32tAs97:35.3612365):0.7754645,KSS059tAs02:41.136701):1.853781,LBFE184tAs02:42.990482):3.8644365):0.01,MBTB157tAs02:46.377198):6.544688,(((K30105s85:20.0563575,KSTB007tAs02:37.0563575):11.419779,(((K30639s85:23.341038,KS014tAs02:40.341038):2.224786,(KITACD007s00:2.234599,KITACD020s00:2.234599):38.331225):6.47832,K30871s85:32.044144):0.01):0.01,(((KITACD002s00:6.875263,KITACD014s00:6.875263):8.616016,KITACD015s00:15.491279):21.818443,KITACD113s01:38.309722):8.949829):4.662335):1.948831,((97CG307:28.8510605,K32051s85:16.8510605):18.7778925,(((((96CG39:30.284795,CgARV52s03.5:37.784795):3.175272,MBFE247tAs97:34.460067):0.3082675,MBTB022t02s02:39.7683345):1.4975375,MBTB083tAs02:41.265872):8.440105,(((((CgAS20s03.5:39.181017,K30104s85:20.681017):4.193763,CgCHU10s03.5:43.37478):2.028156,K30620s85:26.902936):0.686236,(KS7tAs97:32.490188,(MBTB013tAs02:29.043606,MBTB159tAs02:29.043606):8.446582):7.098984):1.495529,MBTB012tAs02:46.084701):3.621276):2.922976):2.241764):1.043392,((((EQS1tAs97:35.665074,(EQS25tAs97:32.021753,(EQTB3tAs97:26.260251,EQTB9tAs97:26.260251):5.761502):3.643321):4.120505,(EQS36tAs97:38.566667,(EQTB58tAs97:31.1960045,K32253s85:19.1960045):7.3706625):1.218912):2.846307,(((K31343s85:19.110625,KSFE142tAs02:36.110625):5.42236,LBTB045tAs02:41.532985):2.859752,(K31886s85:24.1442785,(KTB230tAs02:36.0790995,Y707086s99:33.0790995):5.065179):3.2484585):3.239149):2.383175,(((K30873s85:20.665177,KS005tAs02:37.665177):3.224265,(KP37tAs97:32.867495,LBS050tAs02:37.867495):3.021947):1.909152,KP145tAs02:42.798594):7.216467):5.899048):0.4587275,(((96CG24:39.8780915,((K31857s85:22.734359,(LBFE025tAs02:35.546364,LBS024tAs02:35.546364):4.187995):6.072233,((MBFE161tAs02:32.206983,MBS26tAs97:27.206983):5.953736,MBTB030tAs02:38.160719):7.645873):0.0714995):4.2046795,((((98CG895:37.331434,(CgCHU30s03.5:37.575709,KSS013tAs02:36.075709):5.255725):0.7376965,KITACD106s01:41.0691305):2.7324725,(((K31978s85:21.7463115,KSTB001tAs02:38.7463115):0.8545625,MBFE038tAs02:39.600874):1.04466,LBR061tAs02:40.645534):4.156069):4.764434,(((EQS48tAs97:32.913188,EQTB44tAs97:32.913188):6.066861,MBTB43tAs97:38.980049):3.535447,(LBTB013tAs02:34.538662,Y707132s99:31.538662):12.976834):2.050541):0.516734):1.85474,CgARV93s03.5:53.437511):4.4353255):0.5379365,(((EQFE10t11s97:4.692876,EQS18tAs97:4.692876):26.4057115,KP72tAs97:31.0985875):6.9912995,(EQTB35t11s97:33.934229,EQTB66t11s97:33.934229):4.155658):13.820886):1.817913,((((((((96CG17:29.8285235,96CG21:29.8285235):2.6751435,(98CG859:32.092086,98CG905:32.092086):2.411581):3.911686,(97CG281:31.069963,CgCHU09s03.5:37.569963):6.34539):2.378968,((97CG152:32.083155,(97CG257:28.954276,CgCHU33s03.5:36.454276):3.128879):4.724469,((CgARV115s03.5:32.771423,CgCHU17s03.5:32.771423):8.327188,CgCHU05s03.5:41.098611):3.209013):1.986697):2.116471,(97CG284:38.230604,CgAS23s03.5:44.730604):3.680188):2.387929,((CgCHU18s03.5:37.369658,(KITACD012s00:5.311812,KITACD016s00:5.311812):28.557846):7.074815,((K30750s85:17.814707,KS110tAs02:34.814707):5.11052,(K31194s85:6.8358,K31195s85:6.8358):16.089427):3.019246):6.354248):0.638169,K32042s85:32.93689):4.174577,((((((EQS13tAs97:27.6287125,MBTB151tAs02:32.6287125):4.359808,EQTB54tAs97:31.9885205):2.3311675,EQTB46tAs97:34.319688):2.074765,((EQS45tAs97:28.853434,EQS49tAs97:28.853434):3.871184,EQTB81tAs97:32.724618):3.669835):2.463018,EQTB14tAs97:38.857471):2.8218305,(EQTB38tAs97:31.422895,EQTB40tAs97:31.422895):10.2564065):7.4321655):4.617219):2.8853735,(((LBS018tAs02:40.271885,LBS033tAs02:40.271885):3.9716615,(((MBFE131tAs02:32.5595195,MBTB054tAs02:32.5595195):8.3687215,(MBFE194tAs02:36.480412,(MBFE243tAs02:30.305039,MBTB54tAs97:25.305039):6.175373):4.447829):1.5548045,((MBP2tAs97:28.148182,MBS4tAs97:28.148182):2.8895935,MBTB117tAs02:36.0377755):6.44527):1.760501):6.99895,(((((LBS031tAs02:35.373186,(LBTB043tAs02:23.668629,MBFE190tAs97:18.668629):11.704557):2.939497,MBFE155tAs97:33.312683):5.12965,((MBFE191tAs97:25.780131,MBTB140tAs02:30.780131):5.48915,(MBFE244tAs97:29.101324,MBFE78tAs97:29.101324):2.167957):7.173052):2.994792,((LBS051tAs02:33.621173,MBS7tAs97:28.621173):10.936896,(MBFE101tAs02:38.3263745,MBS341tAs97:33.3263745):6.2316945):1.879056):1.890324,(MBDS17tAs97:39.929983,(((MBFE149tAs97:25.522326,MBS77t02s97:25.522326):4.378406,(MBTB044tAs02:14.93271,MBTB052tAs02:14.93271):19.968022):8.965343,MBTB082tAs02:43.866075):1.063908):3.397466):2.9150475):10.371563):0.7323495,(98CG899:37.9915605,(EQS15tAs97:34.2042385,K31496s85:22.2042385):2.787322):20.3548485):0.070633,(((((((((96CG34:33.539798,CgARV94s03.5:41.039798):3.929488,K30691s85:26.469286):2.054493,Y707025s99:42.523779):8.157467,(((CgARV53s03.5:39.373089,LBS023tAs02:37.873089):4.115413,LBTB073tAs02:41.988502):1.249776,MBTB088tAs02:43.238278):10.442968):0.01,((CgARV140s03.5:39.73425,CgCHU12s03.5:39.73425):4.854939,EQTB69tAs97:38.089189):9.916619):0.476637,(98CG877:38.819451,MBS9tAs97:37.819451):10.662994):0.865661,(((K32170s85:17.715152,Y706600s99:31.715152):3.787989,MBTB29tAs97:33.503141):2.66654,KSS048tAs02:41.169681):13.178425):1.803888,(((KITACD208s01:41.334988,LBTB106tAs02:42.334988):7.7498625,(KS080tAs02:46.0830605,(MBFE5tAs97:28.90045,MBTB108tAs02:33.90045):12.1826105):4.00179):3.5653145,(KSTB024tAs02:40.333485,MBFE118tAs02:40.333485):13.31668):2.501829):6.227999,((KITACD019s00:32.325091,KITACD209s01:33.325091):18.20025,((KTB16tAs97:41.517768,(MBFE073tAs02:36.8095675,MBTB085tAs02:36.8095675):9.7082005):3.960951,(MBS28tAs97:31.682304,MBTB079tAs02:36.682304):13.796415):2.046622):9.854652):0.037049):3.3285175,(((((((96CG12:32.7528355,KS043tAs02:38.7528355):4.3217415,(KITACD101s01:12.172142,KITACD114s01:12.172142):29.902435):0.570354,CgCHU50s03.5:45.144931):4.548925,((97CG282:35.773477,(((98CG879:15.720194,CgCHU45s03.5:21.220194):17.876976,CgCHU04s03.5:39.09717):2.537801,CgARV04s03.5:41.634971):0.638506):4.426402,(((EQTB52tAs97:29.8456335,KSFE061tUs02:34.8456335):3.2939015,MBFE185tAs97:33.139535):3.452513,((MBS12tAs97:11.270307,MBS23tAs97:11.270307):12.662581,MBS30tAs97:23.932888):12.65916):3.607831):2.993977):1.222244,(CgARV75s03.5:41.470234,K32047s85:22.970234):9.445866):4.73353,(KP097tAs02:43.240194,MBS63tAs97:38.240194):10.909436):10.217325,(((97CG276:38.2045415,(CgCHU01s03.5:38.221238,KP89tAs97:31.721238):6.4833035):4.1134305,((CgARV116s03.5:8.245226,CgARV117s03.5:8.245226):32.2179485,KSS004tA2s02:38.9631745):8.3547975):3.6658635,(MBCD5tAs97:39.518613,MBTB019tUs02:44.518613):6.4652225):13.3831195):1.3786045):7.48383,((((LBTB032tUs02:36.405829,Y707119s99:33.405829):5.030404,LBTB039tUs02:41.436233):1.8370365,(LBTB084tUs02:35.6974975,MBTB047tUs02:35.6974975):7.575772):5.4742865,MBFE250s97:43.747556):24.4818335):2.8397555,((((((((((96CG16:27.442254,KSTB022tHs02:33.442254):2.4210425,KSFE110tHs02:35.8632965):2.185936,(98CG900:30.3735005,98CG904:30.3735005):3.675732):2.4742815,(CgARV67s03.5:39.9943825,(CgCP07s03.5:36.045741,KIST061tHs02:34.545741):3.9486415):2.0291315):2.3928465,98CG912:38.9163605):3.4346025,(((98CG853:34.959094,YBDK64s99:35.959094):1.6995515,CgCHU14s03.5:42.1586455):2.5840085,CgARV48s03.5:44.742654):3.108309):2.9506985,((97CG316:36.2792585,EQTB80tHs97:36.2792585):1.780274,CgCP04s03.5:44.5595325):6.242129):4.0270585,(96CG27:39.96072,EQTB1tHs97:40.96072):7.368):1.337451,(((96CG23:30.098969,97CG275:31.098969):5.152044,97CG314:36.251013):3.1196985,98CG861:40.3707115):10.2954595):3.713252,(((98CG896:32.803129,CgCP15s03.5:38.303129):9.755465,((CgARV111s03.5:41.61383,(KSS023tHs02:38.382774,MBTB148tHs02:38.382774):1.731056):4.2870815,(CgCP11s03.5:38.852286,LBTB031tHs02:37.352286):7.0486255):2.1576825):5.964309,(CgCP14s03.5:47.70139,(K31335s85:19.730859,KS018tHs02:36.730859):9.470531):6.321513):5.85652):17.689722):7.004793,((((((((((((96CG14:35.097143,KCD4tDs97:36.097143):3.3549335,KSS006tDs02:44.4520765):3.21832,((CgARV47s03.5:34.247374,CgCP03s03.5:34.247374):10.288667,((CgCHU19s03.5:35.6116875,K31688s85:17.1116875):6.6584995,KITACD004s00:38.770187):2.265854):4.6343555):4.4295095,(((((((CgCHU29s03.5:35.594387,K30042s85:17.094387):6.208949,((KSFE141tDs02:34.7633405,MBTB152tDs02:34.7633405):2.9908665,KSS030tDs02:37.754207):2.549129):2.533423,((KSS047tDs02:37.03123,LBS038tDs02:37.03123):2.778259,MBS342tDs97:34.809489):3.02727):2.3943385,((K31252s85:19.565834,K31331s85:19.565834):7.039331,MBFE015tDs02:43.605165):1.6259325):3.6843075,(CgCHU48s03.5:44.560617,((KTB122tDs02:40.119682,(LBR032tDs02:32.543162,MBS35tDs97:27.543162):7.57652):1.424362,YBDK45s99:38.544044):1.516573):5.854788):1.6457495,(K31533s85:21.728683,MBTB115tDs02:38.728683):11.8324715):0.01,(K30884s85:26.928068,(MBS55tDs97:27.311398,MBS56tDs97:27.311398):11.61667):6.354001):1.817837):0.01,((98CG910:36.418987,CgCHU07s03.5:41.918987):5.279101,(CgARV112s03.5:38.20914,K32130s85:19.70914):8.988948):5.3086445):2.5277875,((((((98CG918:30.973633,CgCHU35s03.5:36.473633):9.932249,(((KS2tDs97:29.437588,Y706633s99:31.437588):2.969496,LBDS001tDs02:37.407084):2.801078,Y707042s99:37.208162):4.69772):1.370296,((CgCHU27s03.5:36.783552,CgCHU53s03.5:36.783552):3.976287,MBFE252tDs02:39.259839):7.016339):5.150653,KMST144tDs97:46.426831):0.01,(K30858s85:20.77821,K31166s85:20.77821):8.3458615):1.9564565,(LBFE012tDs02:38.583176,Y723480s99:35.583176):9.497352):5.453992):1.248616,K30432s85:37.783136):13.845271,LBS043tUs02:68.628407):5.28167,((((((98CG869:31.561244,K30793s85:18.561244):3.933398,CgCHU08s03.5:40.994642):4.570395,((((CgCHU31s03.5:31.592647,LBTB018t05s02:30.092647):3.4875965,K31821s85:16.5802435):1.4108835,MBFE183tF1s97:29.991127):2.458361,(LBS012t05s02:17.820284,LBTB094t05s02:17.820284):19.629204):6.615549):11.212569,((CgCHU15s03.5:37.894748,KP98tKs97:31.394748):13.0132835,(EQTB50s97:39.745168,KSFE047tUs02:44.745168):4.6628635):5.8695745):3.200656,EQS16s97:53.478262):4.348247,((((98CG908:31.498555,KTB111tKs97:30.498555):7.118517,MBFE71tKs97:37.617072):3.999095,((EQTB43tKs97:31.87929,K31184s85:19.87929):4.676972,KP156tKs02:41.556262):5.059905):5.998897,EQS8tKs97:47.615064):10.211445):11.083568):0.01,98CG893:69.068879):3.117562,(((K30326s85:33.202596,((K30812s85:29.536306,(LBTB028tCs02:41.6092685,MBS80tCs97:36.6092685):4.9270375):1.394854,MBTB041tCs02:47.93116):2.271436):8.548852,((((((((((KITACD005s00:0.3269,KITACD129s01:1.3269):28.4471535,MBFE34tCs97:25.7740535):12.7231985,(LBIST043tCs02:38.19819,(LBS019tCs02:32.7795405,LBS054tCs02:32.7795405):5.4186495):5.299062):0.37035,((LBTB087tCs02:34.927699,MBFE92tCs97:29.927699):3.748405,MBTB037tCs02:38.676104):5.191498):8.646621,(((((KITACD122s01:37.12798,(LBTB102tCs02:35.631164,MBFE61tCs97:30.631164):2.496816):6.85306,(((LBFE069tCs02:37.2834765,LBTB040tCs02:37.2834765):3.6200305,(LBTB064tCs02:36.2225605,MBS37tCs97:31.2225605):4.6809465):2.599016,((LBS042tCs02:33.568455,LBS055tCs02:33.568455):4.9316365,LBTB019tCs02:38.5000915):5.0024315):1.478517):1.652577,(((((KSS055tCs02:31.36366,LBS029tCs02:31.36366):5.217565,LBIST021tCs02:36.581225):1.320725,LBTB011tCs02:37.90195):3.028137,LBFE106tCs02:40.930087):1.738863,LBTB052tCs02:42.66895):3.964667):4.412296,((LBIST037tCs02:37.17217,LBTB062tCs02:37.17217):5.790071,((LBS017tCs02:37.335821,MBTB11tCs97:32.335821):3.3091375,MBTB10tCs97:35.6449585):2.3172825):8.083672):0.630218,(((LBR025tCs02:35.940208,LBTB072tCs02:35.940208):5.804108,((LBR074tCs02:33.857681,MBTB011tCs02:33.857681):4.91278,LBTB027tCs02:38.770461):2.973855):8.417918,(LBTB038tCs02:37.7385425,MBTB58tCs97:32.7385425):12.4236915):1.513897):0.838092):2.627892,(((LBDS078tCs02:34.8002705,MBTB116tCs02:34.8002705):5.9471295,(LBS049tCs02:34.705901,LBS053tCs02:34.705901):6.041499):3.363639,LBIST016tCs02:44.111039):11.031076):0.01,(LBDS072tCs02:35.0997755,MBFE14tCs97:30.0997755):13.670072):5.2316695,(((LBS004tCs02:35.254656,LBTB021tCs02:35.254656):3.6839405,Y765540s99:35.9385965):4.9384405,MBFE117tCs02:43.877037):10.12448):0.01,(((((KP031tCs02:34.401004,KP096tCs02:34.401004):3.9345565,LBTB051tCs02:38.3355605):7.8757615,(LBS045tCs02:35.011574,LBS048tCs02:35.011574):11.199748):0.890037,LBS036tCs02:47.101359):4.438425,(LBR075tCs02:41.84195914,MBFE300tCs97:36.84195914):9.69782486):2.3494005):1.8990135,(KS040tCs02:36.3418855,MBTB13tCs97:31.3418855):19.4463125):2.96325):6.2388925,(((((K31602s85:15.6123945,MBS33tCs97:27.6123945):3.841601,(MBTB098tCs02:32.767484,MBTB127tCs02:32.767484):3.6865115):2.5563935,MBTB3tCs97:34.010389):2.770434,MBS20tCs97:36.780823):5.683902,LBTB046tCs02:47.464725):17.5256155):11.1961005):2.1092295,(((((((EQS21tAEs97:28.475826,Y768856s00:31.475826):3.114278,K30487s85:19.590104):3.54008,K32154s85:23.130184):1.545975,(K31265s85:19.940121,LBTB037t01s02:36.940121):4.736038):2.838319,EQTB60tAEs97:39.514478):21.896662,(KITACD107s01:41.5312745,LBR024tCPXs02:42.5312745):23.8798655):13.1894555,(KITACD003s00:36.929562,KITACD123s01:37.929562):40.6710335):0.01):4.7782675):3.55165,((((((((((((((96CG13:29.3552425,98CG914:31.3552425):3.9915355,K31899s85:22.346778):0.309995,98CG867:35.656773):1.943117,((96CG22a:21.112364,96CG22b:21.112364):8.3760235,(96CG38:23.646487,K30008s85:12.646487):5.8419005):6.1115025):2.3184135,((97CG315:29.101769,96CG30:28.101769):2.560608,CgCHU06s03.5:38.162377):7.2559265):0.877927,((98CG858:30.887947,98CG887:30.887947):3.1351435,98CG897:34.0230905):6.77314):3.3131605,(98CG922:35.092137,CgCHU02s03.5:40.592137):9.017254):0.01,(CgARV76s03.5:36.848548,CgCHU38s03.5:36.848548):11.769085):2.33239,((CgARV101s03.5:20.617772,CgARV138s03.5:20.617772):22.576276,(CgARV41s03.5:40.482846,CgCP06s03.5:40.482846):2.711202):7.755975):5.5862435,(((((98CG874:34.227645,KSS042tGs02:38.227645):7.211443,((KSS046tGs02:39.79583,(MBTB023tGs02:32.853146,MBTB7tGs97:27.853146):6.942684):1.764048,KTB18tGs97:36.559878):3.87921):4.688846,(CgCHU13s03.5:41.555594,KSTB008tGs02:40.055594):10.07234):3.953793,(((CgARV55Es03.5:39.8246615,KSS039tGs02:38.3246615):1.3348675,Y768718s00:37.659529):4.675541,KIST046tGs02:44.33507):9.746657):0.01,((CgARV109s03.5:41.105471,KCC1tGs97:34.605471):4.310817,(CgCHU11s03.5:38.1967355,KSS012tGs02:36.6967355):7.2195525):9.476459):1.6435195):2.466753,((((((97CG313:31.2206525,LBS010tGs02:36.2206525):6.1152725,K31149s85:25.335925):2.517137,(LBIST051tGs02:38.631844,Y707017s99:35.631844):6.221218):2.305263,(CgCHU56s03.5:39.5234565,MBFE91tGs97:33.0234565):9.1348685):4.900031,((((K30084s85:22.257582,YBDK29s99:36.257582):3.127844,(KITACD009s00:0.339206,KITACD111s01:1.339206):40.04622):1.862876,KS004tGs02:44.248302):4.5094,K32290s85:31.757702):3.300654):1.675463,((((CgCHU47s03.5:40.5608515,K30582s85:22.0608515):3.563647,(LBS035tGs02:37.2022625,LBTB095tGs02:37.2022625):5.422236):2.4276965,LBS022tGs02:45.052195):3.6523115,LBIST052tGs02:48.7045065):5.0293125):3.7692005):8.3336455,(KS108tGs02:40.108882,LBS044tUs02:40.108882):25.727783):4.784176,(EQS29s97:49.821264,K31917s85:37.821264):15.799577):2.571564,((((97CG305:24.461389,CgARV60s03.5:30.961389):10.175026,MBFE311tJs02:39.636415):7.25446,(CgCHU37s03.5:43.57852,((LBS002tJs02:35.3786265,MBS41tJs97:30.3786265):5.4317295,Y706624s99:37.810356):1.268164):4.812355):11.3133825,((97CG311:34.901909,MBTB090tJs02:39.901909):8.9309345,((CgCHU46s03.5:40.312217,MBTB4tJs97:33.812217):3.1091455,MBTB138tJs02:41.9213625):6.911481):9.371414):14.9881475):13.433183);
+	</newick>
+	<treeModel id="treeModel">
+		<tree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<strictClockBranchRates id="geography.branchRates">
+		<rate>
+			<parameter id="geography.clock.rate" value="0.01" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<generalSubstitutionModel id="geography.model">
+		<generalDataType idref="geography.dataType"/>
+		<frequencies>
+			<frequencyModel id="geography.frequencyModel" normalize="true">
+				<generalDataType idref="geography.dataType"/>
+				<frequencies>
+					<parameter id="geography.frequencies" dimension="8"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rates>
+			<parameter id="geography.rates" dimension="28" value="1.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="geography.indicators" dimension="28" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="geography.nonZeroRates" elementwise="true">
+		<parameter idref="geography.indicators"/>
+	</sumStatistic>
+	<siteModel id="geography.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="geography.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<markovJumpsTreeLikelihood id="geography.treeLikelihood" useUniformization="true" saveCompleteHistory="true" logCompleteHistory="true" compactHistory="true">
+		<patterns idref="patterns"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="geography.siteModel"/>
+		<generalSubstitutionModel idref="geography.model"/>
+		<strictClockBranchRates idref="geography.branchRates"/>
+
+	</markovJumpsTreeLikelihood>
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="15">
+			<parameter idref="geography.clock.rate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="24" scaleAllIndependently="true">
+			<parameter idref="geography.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="30">
+			<parameter idref="geography.indicators"/>
+		</bitFlipOperator>
+	</operators>
+
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" adaptationDelay="200000">
+		<posterior id="posterior">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="geography.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+				<poissonPrior mean="0.693147180559945" offset="7">
+					<statistic idref="geography.nonZeroRates"/>
+				</poissonPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="geography.rates"/>
+					</gammaPrior>
+					<parameter idref="geography.rates"/>
+				</cachedPrior>
+				<generalSubstitutionModel idref="geography.model"/>
+			</prior>
+			<likelihood id="likelihood">
+				<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="screenLog" logEvery="1000">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+		</log>
+
+		<log id="fileLog" logEvery="2000" fileName="HIV_datasetC_completeHistory.log" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="geography.clock.rate"/>
+			<parameter idref="geography.rates"/>
+			<parameter idref="geography.indicators"/>
+			<sumStatistic idref="geography.nonZeroRates"/>
+			<markovJumpsTreeLikelihood idref="geography.treeLikelihood"/>
+		</log>
+
+		<logTree id="treeFileLog" logEvery="2000" nexusFormat="true" fileName="HIV_datasetC_completeHistory.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+		</logTree>
+		<log id="historyLogger" logEvery="2000" fileName="HIV_datasetC_completeHistory.txt">
+			<completeHistoryLogger>
+				<markovJumpstreelikelihood idref="geography.treeLikelihood"/>
+			</completeHistoryLogger>
+		</log>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>
