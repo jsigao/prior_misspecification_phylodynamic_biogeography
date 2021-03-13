@@ -1,5 +1,5 @@
 # Supplemental Archive for: The Impact of Prior Misspecification on Bayesian Phylodynamic Inference of Biogeographic History
-This archive contains the materials that are necessary and sufficient to replicate this study; it is divided into three subdirectories: [`data`](#data) (containing the sequence alignment and the associated sampling time and location data), [`analyses`](#analyses) (containing the `BEAST` phylodynamic analyses XML scripts), and [`scripts`](#scripts) (containing the analyses-setup and analyses-postprocessing `R` scripts), each described in detail below.
+This archive contains the materials that are necessary and sufficient to reproduce this study; it is divided into three subdirectories: [`data`](#data) (containing the sequence alignment and the associated sampling time and location data), [`analyses`](#analyses) (containing the `BEAST` phylodynamic analyses XML scripts), and [`scripts`](#scripts) (containing the analyses-setup and analyses-postprocessing `R` scripts), each described in detail below.
 This archive is also available as an [Dryad repository](link here).
 
 ## <a name="data"></a>Data
