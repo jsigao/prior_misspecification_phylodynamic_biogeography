@@ -1,21 +1,21 @@
-# Supplemental Archive for: The Impact of Prior Misspecification on Bayesian Phylodynamic Inference of Biogeographic History
+# Supplementary Archive for: The Impact of Prior Misspecification on Bayesian Phylodynamic Inference of Biogeographic History
 This archive contains the materials that are necessary and sufficient to reproduce this study; it is divided into three subdirectories: [`data`](#data) (containing the sequence alignment and the associated sampling time and location data), [`analyses`](#analyses) (containing the `BEAST` phylodynamic analyses XML scripts), and [`scripts`](#scripts) (containing the analyses-setup and analyses-postprocessing `R` scripts), each described in detail below.
 This archive is also available as an [Dryad repository](link here).
 
 ## <a name="data"></a>Data
 The `data` subdirectory contains the sequence alignment and the associated sampling time and location information.
-We organized the 11 datasets by virus first (corresponding to six immediate subdirectories), and then by subdatasets when there is more than one such for a given virus.
+We organized the 14 datasets by the source study first (corresponding to eight immediate subdirectories), and then by subdatasets when there is more than one such for a given study.
 Each (sub)dataset subdirectory contains a `discrete_trait.txt` spreadsheet, which stores the sampling time and location information.
 We also include the sequence alignment (as well as the GenBank accession numbers) for the datasets that we don't have access to the marginal distribution of phylogenies or the sequence alignment from the original study.
 
 ## <a name="analyses"></a> Analyses
 The `analyses` subdirectory contains the `BEAST` XML scripts we used in the phylodynamic analyses.
-This subdirectory is structured similarly with the `data` subdirectory in terms of the organization of the 11 datasets.
+This subdirectory is structured similarly with the `data` subdirectory in terms of the organization of the 14 datasets.
 Each (sub)dataset directory contains two immediate subdirectories: `phylogeny` and `phylogeography`.
-Each `phylogeny` subdirectory contains a `dataset_sample.trees` file, <!-- (not available in the GitHub repository due to size limit, but can be found in the Dryad repository) --> which is the corresponding marginal posterior distribution of phylogenies inferred using the sequence data and their associated sampling time (*i.e.*, result of the first step of the sequential phylodynamic inference), and a `dataset_MCC.tree` file, a summary phylogeny computed from the posterior distribution.
-`dataset_sample.trees` is used in the second step of the `BEAST` sequential phylodynamic inference where we marginalized over the distribution of phylogenies to estimate the geographic model parameters, to infer the biogeographic history, and to assess geographic (prior)model fit.
-`dataset_MCC.tree` is used in the data cloning analyses where we conditioned on the summary tree to evaluate informativeness of the prior relative to the data.
-We include the `BEAST` XML scripts for the datasets that we don't have access to the marginal distribution of phylogenies from the original study so that we inferred it in this study.
+Each `phylogeny` subdirectory contains a `dataset_sample.trees` file, <!-- (not available in the GitHub repository due to size limit, but can be found in the Dryad repository) --> which includes the corresponding marginal posterior distribution of phylogenies inferred using the sequence data and their associated sampling time (*i.e.*, result of the first step of the sequential phylodynamic inference), and a `dataset_MCC.tree` file, a summary phylogeny computed from the posterior distribution.
+For all datasets (except the SARS-CoV-2 Global and B.1.1.7 US datasets), `dataset_sample.trees` is used in the second step of the `BEAST` sequential phylodynamic inference where we marginalized over the distribution of phylogenies to estimate the geographic model parameters, to infer the biogeographic history, and to assess geographic (prior)model fit.
+`dataset_MCC.tree` is used in the data cloning analyses where we conditioned on the summary tree to evaluate informativeness of the prior relative to the data, and in all the analyses for the SARS-CoV-2 Global and B.1.1.7 US datasets where we conditioned on the MCC summary tree to ensure numerical stability.
+We also include the `BEAST` XML scripts for the phylogenetic analyses using the sequence data and sampling time to infer the marginal distribution of phylogenies in the `phylogeny` subdirectory of a study for which we don't have access to that tree distribution.
 
 The `phylogeography` subdirectory contains the `BEAST` XML scripts for the core model-evaluation phylodynamic analyses of this study.
 This subdirectory is further structured into three nested layers: (1) `ctmc` and `exp_hyper`, (2) `asymmetric` and `symmetric`, and (3) `poisson_default` and `poisson_intermediate`, corresponding to the eight prior model combinations of: (1) default and alternative priors on the overall dispersal rate, (2) a symmetric and asymmetric rate matrix, and (3) default and alternative priors on the number of dispersal routes.
@@ -27,7 +27,7 @@ In addition, `ctmc/symmetric/poisson_default` and `exp_hyper/symmetric/poisson_i
 
 ## <a name="scripts"></a>Scripts
 The `scripts` subdirectory contains the `R` scripts we used in this study; it is further divided into three subdirectories, corresponding to the three major types of processing we did (either before or after running the `BEAST` analyses), including:
-* the scripts that automatically generate the `BEAST` XML scripts to set up all the analyses (`scripts/analyses_setup`),
+* the scripts that can be used to generate the `BEAST` XML scripts to set up all the analyses (`scripts/analyses_setup`),
 * the scripts that perform posterior-predictive simulations using the inferred geographic model parameters and dated phylogenies (`scripts/history_simulation`), and
 * the scripts that process the `BEAST` output files to produce summaries of geographic model parameters (`scripts/parameter_summary`).
 
