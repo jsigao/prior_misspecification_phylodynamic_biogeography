@@ -1,6 +1,6 @@
-# Supplementary Archive for: The Impact of Prior Misspecification on Bayesian Phylodynamic Inference of Biogeographic History
+# Supplementary Archive for: Model Misspecification Misleads Inference of the Spatial Dynamics of Disease Outbreaks
 This archive contains the materials that are necessary and sufficient to reproduce this study; it is divided into three subdirectories: [`data`](#data) (containing the sequence alignment and the associated sampling time and location data), [`analyses`](#analyses) (containing the `BEAST` phylodynamic analyses XML scripts), and [`scripts`](#scripts) (containing the analyses-setup and analyses-postprocessing `R` scripts), each described in detail below.
-This archive is also available as an [Dryad repository](link here).
+This archive is also available as an [Dryad repository](https://datadryad.org/stash/share/vTbeDwLq2uSL9rL4NCe_Cocp2bY7BgWTI2tUgoNrLDA).
 
 ## <a name="data"></a>Data
 The `data` subdirectory contains the sequence alignment and the associated sampling time and location information.
