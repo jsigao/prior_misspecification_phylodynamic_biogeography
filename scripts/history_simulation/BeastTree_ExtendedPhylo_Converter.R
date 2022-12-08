@@ -145,6 +145,7 @@ BeasttreeExtendedPhyloConverter <- function(tree, trait = NULL, trait_history = 
     }
     
     tree$maps <- edge_maps
+    class(tree) <- c("simmap", class(tree))
     
     if (convert) {
       extendedPhylo <- phyloExtendedPhyloConverter(tree)

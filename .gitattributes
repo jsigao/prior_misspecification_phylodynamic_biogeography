@@ -1,0 +1,2 @@
+num_connected_digraphs.txt filter=lfs diff=lfs merge=lfs -text
+num_connected_graphs.txt filter=lfs diff=lfs merge=lfs -text

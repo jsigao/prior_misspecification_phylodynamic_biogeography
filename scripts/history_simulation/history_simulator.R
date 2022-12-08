@@ -79,7 +79,7 @@ sim_history <- function(tree, Q, Q_ages = NULL, root_freq = NULL, nsim = 1L, con
     if (ncol(Q[[i]]) != nstates) {
       stop("all matrices need to have identical dimensions.\n")
     }
-    if (!all.equal(as.numeric(apply(Q[[i]], 1, sum)), rep(0, nstates), tolerance = 1e-3)) {
+    if (!isTRUE(all.equal(as.numeric(apply(Q[[i]], 1, sum)), rep(0, nstates), tolerance = 1e-3))) {
       stop("row of Q needs to sum to 0.\n")
     }
     if (any(Q[[i]][row(Q[[i]]) != col(Q[[i]])] < 0)) {
@@ -171,7 +171,7 @@ sim_history_unconditional <- function(tree, Q, Q_ages = NULL, states, root_freq 
 
     # sample root state first
     node <- root
-    state_current <- states[sample.int(nstates, size = 1, prob = root_freq)]
+    state_current <- states[sample.int(nstates, size = 1L, prob = root_freq)]
     node.states[tree$edge[, 1] == node, 1] <- state_current
     
     # now we need to traverse the tree to simulate the history
@@ -253,7 +253,7 @@ sim_history_unconditional <- function(tree, Q, Q_ages = NULL, states, root_freq 
               
               prob_vec <- Q_current[stateidx_current, ]
               prob_vec[stateidx_current] <- 0
-              state_current <- states[sample.int(nstates, size = 1, prob = prob_vec)]
+              state_current <- states[sample.int(nstates, size = 1L, prob = prob_vec)]
               stateidx_current <- match(state_current, states)
               
             } else {
@@ -412,4 +412,3 @@ sim_history_conditional <- function(tree, Q, Q_ages = NULL, states, nsim = 1L, t
   # 2: reconstruct the joint ancestral states by doing the up-pass using the computed partial likelihoods, root frequency (if provided), and P matrices
   # 3: stochastic mapping (same as what we do when we have internal state estimates already)
 }
-

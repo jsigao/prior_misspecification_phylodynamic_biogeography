@@ -73,7 +73,7 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   
   states <- sort(as.vector(unique(states_dat$trait)))
   if (any(states == "?")) {
-  	states <- states[-which(states == "?")]
+    states <- states[-which(states == "?")]
   }
   states_num <- length(states)
   
@@ -106,7 +106,7 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
     x <- append(x, paste0(taxon, "\t\t</taxon>"), after = length(x) - 2)
   }
   
-  # instert list of discrete trait
+  # insert list of discrete trait
   x <- append(x, c(paste0("\t<generalDataType id=\"", discrete_trait_name, ".dataType\">"), "\t</generalDataType>"), after = length(x) - 1)
   for (i in 1:states_num) {
     if (lheat == 1) {
@@ -157,17 +157,17 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
                           "\t\t", tree_newick, "\n",
                           "\t</newick>"), after = length(x) - 1)
     x <- append(x, paste0("\t<treeModel id=\"treeModel\">\n",
-                       "\t\t<tree idref=\"startingTree\"/>\n",
-                       "\t\t<rootHeight>\n",
-                       "\t\t\t<parameter id=\"treeModel.rootHeight\"/>\n",
-                       "\t\t</rootHeight>\n",
-                       "\t\t<nodeHeights internalNodes=\"true\">\n",
-                       "\t\t\t<parameter id=\"treeModel.internalNodeHeights\"/>\n",
-                       "\t\t</nodeHeights>\n",
-                       "\t\t<nodeHeights internalNodes=\"true\" rootNode=\"true\">\n",
-                       "\t\t\t<parameter id=\"treeModel.allInternalNodeHeights\"/>\n",
-                       "\t\t</nodeHeights>\n",
-                       "\t</treeModel>\n"), after = length(x) - 1)
+                          "\t\t<tree idref=\"startingTree\"/>\n",
+                          "\t\t<rootHeight>\n",
+                          "\t\t\t<parameter id=\"treeModel.rootHeight\"/>\n",
+                          "\t\t</rootHeight>\n",
+                          "\t\t<nodeHeights internalNodes=\"true\">\n",
+                          "\t\t\t<parameter id=\"treeModel.internalNodeHeights\"/>\n",
+                          "\t\t</nodeHeights>\n",
+                          "\t\t<nodeHeights internalNodes=\"true\" rootNode=\"true\">\n",
+                          "\t\t\t<parameter id=\"treeModel.allInternalNodeHeights\"/>\n",
+                          "\t\t</nodeHeights>\n",
+                          "\t</treeModel>\n"), after = length(x) - 1)
   } else {
     x <- append(x, paste0("\t<empiricalTreeDistributionModel id=\"treeModel\" fileName=\"", treesfile_name, "\">\n",
                           "\t\t<taxa idref=\"taxa\"/>\n",
@@ -179,26 +179,27 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   
   # insert the chunk for clock rate of discrete trait
   discrete_trait_clock_rate <- paste0("\t<strictClockBranchRates id=\"", discrete_trait_name, ".branchRates\">\n",
-                                    "\t\t<rate>\n\t\t\t<parameter id=\"", discrete_trait_name, ".clock.rate\" value=\"0.01\" lower=\"0.0\"/>\n",
-                                    "\t\t</rate>\n",
-                                    "\t</strictClockBranchRates>\n")
+                                      "\t\t<rate>\n\t\t\t<parameter id=\"", discrete_trait_name, ".clock.rate\" value=\"0.01\" lower=\"0.0\"/>\n",
+                                      "\t\t</rate>\n",
+                                      "\t</strictClockBranchRates>\n")
   if (!ctmc) { # not the default prior
     discrete_trait_clock_rate <- paste0(discrete_trait_clock_rate, "\t<distributionLikelihood id=\"", discrete_trait_name, ".clock.rate.exp\">\n",
-                                      "\t\t<distribution>\n\t\t\t<exponentialDistributionModel>\n",
-                                      "\t\t\t\t<mean>\n",
-                                      "\t\t\t\t\t<parameter id=\"", discrete_trait_name, ".clock.rate.exp.mean\" value=\"1\"/>\n",
-                                      "\t\t\t\t</mean>\n",
-                                      "\t\t\t</exponentialDistributionModel>\n",
-                                      "\t\t</distribution>\n",
-                                      "\t\t<data>\n",
-                                      "\t\t\t<parameter idref=\"", discrete_trait_name, ".clock.rate\"/>\n",
-                                      "\t\t</data>\n",
-                                      "\t</distributionLikelihood>\n")
+                                        "\t\t<distribution>\n\t\t\t<exponentialDistributionModel>\n",
+                                        "\t\t\t\t<mean>\n",
+                                        "\t\t\t\t\t<parameter id=\"", discrete_trait_name, ".clock.rate.exp.mean\" value=\"1\"/>\n",
+                                        "\t\t\t\t</mean>\n",
+                                        "\t\t\t</exponentialDistributionModel>\n",
+                                        "\t\t</distribution>\n",
+                                        "\t\t<data>\n",
+                                        "\t\t\t<parameter idref=\"", discrete_trait_name, ".clock.rate\"/>\n",
+                                        "\t\t</data>\n",
+                                        "\t</distributionLikelihood>\n")
   }
   x <- append(x, discrete_trait_clock_rate, after = length(x) - 1)
   
   # insert the chunk for the substitution model of discrete trait
-  substitution_model <- paste0("\t<generalSubstitutionModel id=\"", discrete_trait_name, ".model\">\n",
+  substitution_model_name <- ifelse(symmetry, "generalSubstitutionModel", "complexSubstitutionModel")
+  substitution_model <- paste0("\t<", substitution_model_name, " id=\"", discrete_trait_name, ".model\">\n",
                                "\t\t<generalDataType idref=\"", discrete_trait_name, ".dataType\"/>\n")
   frequencies <- paste0("\t\t<frequencies>\n",
                         "\t\t\t<frequencyModel id=\"", discrete_trait_name, ".frequencyModel\" normalize=\"true\">\n",
@@ -224,7 +225,7 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   if (!bssvs) {
     indicators <- ""
   }
-  substitution_model <- paste0(substitution_model, frequencies, rates, indicators, "\t</generalSubstitutionModel>")
+  substitution_model <- paste0(substitution_model, frequencies, rates, indicators, "\t</", substitution_model_name, ">")
   x <- append(x, substitution_model, after = length(x) - 1)
   
   # insert the non-zero rates chunk
@@ -239,7 +240,7 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   # insert the site model chunk
   site_model <- paste0("\t<siteModel id=\"", discrete_trait_name, ".siteModel\">\n",
                        "\t\t<substitutionModel>\n",
-                       "\t\t\t<generalSubstitutionModel idref=\"", discrete_trait_name, ".model\"/>\n",
+                       "\t\t\t<", substitution_model_name, " idref=\"", discrete_trait_name, ".model\"/>\n",
                        "\t\t</substitutionModel>\n",
                        "\t</siteModel>\n")
   x <- append(x, site_model, after = length(x) - 1)
@@ -252,12 +253,12 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   }
   markov_jumps <- paste0(markov_jumps, "\t\t<treeModel idref=\"treeModel\"/>\n",
                          "\t\t<siteModel idref=\"", discrete_trait_name,".siteModel\"/>\n",
-                         "\t\t<generalSubstitutionModel idref=\"", discrete_trait_name, ".model\"/>\n",
+                         "\t\t<", substitution_model_name, " idref=\"", discrete_trait_name, ".model\"/>\n",
                          "\t\t<strictClockBranchRates idref=\"", discrete_trait_name, ".branchRates\"/>\n")
   
   if (complete_history) {
     markov_jumps <- paste0("\t<markovJumpsTreeLikelihood id=\"", discrete_trait_name,
-                         ".treeLikelihood\" useUniformization=\"true\" saveCompleteHistory=\"true\" logCompleteHistory=\"true\" compactHistory=\"true\">\n", markov_jumps)
+                           ".treeLikelihood\" useUniformization=\"true\" saveCompleteHistory=\"true\" logCompleteHistory=\"true\" compactHistory=\"true\">\n", markov_jumps)
   } else if (powerposterior_vanilla) {
     markov_jumps <- paste0("\t<markovJumpsTreeLikelihood id=\"", discrete_trait_name, ".treeLikelihood\">\n", markov_jumps)
   } else {
@@ -267,17 +268,17 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   
   # add root frequencies for asymmetric model
   if (!symmetry) {
-    root_frequncies <- paste0("\t\t<frequencyModel id=\"root.frequencyModel\" normalize=\"true\">\n",
+    root_frequencies <- paste0("\t\t<frequencyModel id=\"root.frequencyModel\" normalize=\"true\">\n",
                               "\t\t\t<generalDataType idref=\"", discrete_trait_name, ".dataType\"/>\n",
                               "\t\t\t<frequencies>\n",
                               "\t\t\t\t<parameter id=\"", discrete_trait_name, ".root.frequencies\" dimension=\"", states_num,"\"/>\n",
                               "\t\t\t</frequencies>\n",
                               "\t\t</frequencyModel>\n")
-    markov_jumps <- paste0(markov_jumps, root_frequncies)
+    markov_jumps <- paste0(markov_jumps, root_frequencies)
   }
   x <- append(x, markov_jumps, after = length(x) - 1)
   
-  if ((!complete_history) && lheat == 1 && (!powerposterior_vanilla)) {
+  if ((!complete_history) && (!powerposterior_vanilla)) {
     # total counts
     total_count_name <- paste0("\t\t<parameter id=\"", discrete_trait_name, ".count\" value=\" ")
     total_count <- numeric(length = states_num^2)
@@ -410,7 +411,7 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   }
   prior <- paste0("\t\t\t<prior id=\"prior\">\n",
                   clock_rate_prior, nonZeroRates_prior, root_frequencies_prior, rates_prior, 
-                  paste0("\t\t\t\t<generalSubstitutionModel idref=\"", discrete_trait_name, ".model\"/>\n"), 
+                  paste0("\t\t\t\t<", substitution_model_name, " idref=\"", discrete_trait_name, ".model\"/>\n"), 
                   "\t\t\t</prior>\n")
   
   likelihood <- paste0("\t\t\t<likelihood id=\"likelihood\">\n",
@@ -435,11 +436,11 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
                        "\t\t</log>\n\n")
   
   log_file <- paste0("\t\t<log id=\"fileLog\" logEvery=\"", as.integer(mcmc_samplingfreq),"\" fileName=\"", file_name, ".log\" overwrite=\"false\">\n",
-                   "\t\t\t<posterior idref=\"posterior\"/>\n",
-                   "\t\t\t<prior idref=\"prior\"/>\n",
-                   "\t\t\t<likelihood idref=\"likelihood\"/>\n")
+                     "\t\t\t<posterior idref=\"posterior\"/>\n",
+                     "\t\t\t<prior idref=\"prior\"/>\n",
+                     "\t\t\t<likelihood idref=\"likelihood\"/>\n")
   
-  parameters_log <- paste0("\t\t\t<parameter idref=\"",discrete_trait_name,".clock.rate\"/>\n",
+  parameters_log <- paste0("\t\t\t<parameter idref=\"", discrete_trait_name, ".clock.rate\"/>\n",
                            "\t\t\t<parameter idref=\"", discrete_trait_name, ".rates\"/>\n")
   if (!ctmc) {
     parameters_log <- paste0("\t\t\t<parameter idref=\"", discrete_trait_name, ".clock.rate.exp.mean\"/>\n", parameters_log)
@@ -466,10 +467,10 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
                        "\t\t\t<markovJumpstreelikelihood idref=\"", discrete_trait_name, ".treeLikelihood\"/>\n")
     
     log_history <- paste0("\t\t<log id=\"historyLogger\" logEvery=\"", as.integer(mcmc_samplingfreq), "\" fileName=\"", file_name, ".txt\">\n",
-                        "\t\t\t<completeHistoryLogger>\n",
-                        "\t\t\t\t<markovJumpstreelikelihood idref=\"", discrete_trait_name, ".treeLikelihood\"/>\n",
-                        "\t\t\t</completeHistoryLogger>\n",
-                        "\t\t</log>\n")
+                          "\t\t\t<completeHistoryLogger>\n",
+                          "\t\t\t\t<markovJumpstreelikelihood idref=\"", discrete_trait_name, ".treeLikelihood\"/>\n",
+                          "\t\t\t</completeHistoryLogger>\n",
+                          "\t\t</log>\n")
   } else {
     tree_log <- paste0("\t\t\t<treeModel idref=\"treeModel\"/>\n",
                        "\t\t\t<trait name=\"", discrete_trait_name, ".states\" tag=\"", discrete_trait_name, "\">\n",
@@ -500,17 +501,17 @@ generate_phylogeography_xml <- function(folder_path, writeto_folder_path = NULL,
   if (posterior && (!complete_history) && (lheat == 1) && ml_chainlength > 0) {
     mle <- paste0("\t<marginalLikelihoodEstimator chainLength=\"", as.integer(ml_chainlength), "\" burnin=\"", 
                   as.integer(ml_burnin), "\" pathSteps=\"", stones_num,
-                "\" pathScheme=\"betaquantile\" alpha=\"0.30\" printOperatorAnalysis=\"true\">\n",
-                "\t\t<samplers>\n",
-                "\t\t\t<mcmc idref=\"mcmc\"/>\n",
-                "\t\t</samplers>\n",
-                "\t\t<pathLikelihood id=\"pathLikelihood\">\n",
-                "\t\t\t<source>\n",
-                "\t\t\t\t<posterior idref=\"posterior\"/>\n",
-                "\t\t\t</source>\n\t\t\t<destination>\n",
-                "\t\t\t\t<prior idref=\"prior\"/>\n",
-                "\t\t\t</destination>\n",
-                "\t\t</pathLikelihood>\n")
+                  "\" pathScheme=\"betaquantile\" alpha=\"0.30\" printOperatorAnalysis=\"true\">\n",
+                  "\t\t<samplers>\n",
+                  "\t\t\t<mcmc idref=\"mcmc\"/>\n",
+                  "\t\t</samplers>\n",
+                  "\t\t<pathLikelihood id=\"pathLikelihood\">\n",
+                  "\t\t\t<source>\n",
+                  "\t\t\t\t<posterior idref=\"posterior\"/>\n",
+                  "\t\t\t</source>\n\t\t\t<destination>\n",
+                  "\t\t\t\t<prior idref=\"prior\"/>\n",
+                  "\t\t\t</destination>\n",
+                  "\t\t</pathLikelihood>\n")
     mle_log <- paste0("\t\t<log id=\"MLELog\" logEvery=\"", as.integer(ml_samplingfreq), "\" fileName=\"MLE.log\">\n",
                       "\t\t\t<pathLikelihood idref=\"pathLikelihood\"/>\n",
                       "\t\t</log>\n")

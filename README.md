@@ -1,10 +1,14 @@
 # Supplementary Archive for: Model Misspecification Misleads Inference of the Spatial Dynamics of Disease Outbreaks
-This archive contains the materials that are necessary and sufficient to reproduce this study; it is divided into three subdirectories: [`data`](#data) (containing the sequence alignment and the associated sampling time and location data), [`analyses`](#analyses) (containing the `BEAST` phylodynamic analyses XML scripts), and [`scripts`](#scripts) (containing the analyses-setup and analyses-postprocessing `R` scripts), each described in detail below.
-This archive is also available as an [Dryad repository](https://datadryad.org/stash/share/vTbeDwLq2uSL9rL4NCe_Cocp2bY7BgWTI2tUgoNrLDA).
+This archive contains the materials that are necessary and sufficient to reproduce this study; it is divided into four directories: 
+(1) the [`data`](#data) directory contains the sequence alignment and the associated sampling time and location data;
+(2) the [`analyses`](#analyses) directory contains the `BEAST` phylodynamic analyses XML scripts;
+(3) the [`scripts`](#scripts) directory contains the `R` scripts for setting up and summarizing analyses, and;
+(4) the [`program`](#program) directory contains a modified version of the `BEAST` software package that implements a robust function for checking the irreducibility of a geographic model, required to perform the analyses under the asymmetric geographic model in our study.
+This archive is also available as a [Dryad repository](https://datadryad.org/stash/share/vTbeDwLq2uSL9rL4NCe_Cocp2bY7BgWTI2tUgoNrLDA).
 
 ## <a name="data"></a>Data
 The `data` subdirectory contains the sequence alignment and the associated sampling time and location information.
-We organized the 14 datasets by the source study first (corresponding to eight immediate subdirectories), and then by subdatasets when there is more than one such for a given study.
+We organized the 14 datasets by the source study first (corresponding to eight immediate subdirectories), and then by data(sub)sets when there is more than one such for a given study.
 Each (sub)dataset subdirectory contains a `discrete_trait.txt` spreadsheet, which stores the sampling time and location information.
 We also include the sequence alignment (as well as the GenBank accession numbers) for the datasets that we don't have access to the marginal distribution of phylogenies or the sequence alignment from the original study.
 
@@ -13,7 +17,7 @@ The `analyses` subdirectory contains the `BEAST` XML scripts we used in the phyl
 This subdirectory is structured similarly with the `data` subdirectory in terms of the organization of the 14 datasets.
 Each (sub)dataset directory contains two immediate subdirectories: `phylogeny` and `phylogeography`.
 Each `phylogeny` subdirectory contains a `dataset_sample.trees` file, <!-- (not available in the GitHub repository due to size limit, but can be found in the Dryad repository) --> which includes the corresponding marginal posterior distribution of phylogenies inferred using the sequence data and their associated sampling time (*i.e.*, result of the first step of the sequential phylodynamic inference), and a `dataset_MCC.tree` file, a summary phylogeny computed from the posterior distribution.
-For all datasets (except the SARS-CoV-2 Global and B.1.1.7 US datasets), `dataset_sample.trees` is used in the second step of the `BEAST` sequential phylodynamic inference where we marginalized over the distribution of phylogenies to estimate the geographic model parameters, to infer the biogeographic history, and to assess geographic (prior)model fit.
+For all datasets (except the SARS-CoV-2 Global and B.1.1.7 US datasets), `dataset_sample.trees` is used in the second step of the `BEAST` sequential phylodynamic inference where we marginalized over the distribution of phylogenies to estimate the geographic model parameters, to infer the biogeographic history, and to assess geographic (prior) model fit.
 `dataset_MCC.tree` is used in the data cloning analyses where we conditioned on the summary tree to evaluate informativeness of the prior relative to the data, and in all the analyses for the SARS-CoV-2 Global and B.1.1.7 US datasets where we conditioned on the MCC summary tree to ensure numerical stability.
 We also include the `BEAST` XML scripts for the phylogenetic analyses using the sequence data and sampling time to infer the marginal distribution of phylogenies in the `phylogeny` subdirectory of a study for which we don't have access to that tree distribution.
 
@@ -43,5 +47,16 @@ Other scripts in this subdirectory contains subroutines that will be evoked by t
 One exception is `scripts/history_simulation/posterior_predictive_teststatistics_functions`, which provides functions to calculate posterior-predictive summary statistics (including the tipwise multinomial statistic and the parsimony statistic).
 
 ### <a name="parameter_summary_scripts"></a>Geographic Model Parameter Summary
-`scripts/parameter_summary/get_BFs_counts.R` processes the `BEAST` parameter log file (and simulated history log file if available) to summarize the geographic model parameter estimates for each (prior)model, including pairwise dispersal routes, average dispersal rate, and number of pairwise dispersal events.
+`scripts/parameter_summary/get_BFs_counts.R` processes the `BEAST` parameter log file (and simulated history log file if available) to summarize the geographic model parameter estimates for each (prior) model, including the Bayes factor support for each pairwise dispersal route, average dispersal rate, and number of pairwise dispersal events.
+The functions for computing the prior probability that each dispersal route exist conditioning on the geographic model being irreducible (which is in turn used in computing the Bayes factor support) are available in `scripts/parameter_summary/delta_given_connected.R`.
+By default, these functions fetch the number of strongly connected graphs from the pre-computed tables (`scripts/parameter_summary/num_connected_graphs.txt` and `scripts/parameter_summary/num_connected_digraphs.txt` for the symmetric and asymmetric models, respectively); these pre-computed tables were generated by `scripts/parameter_summary/ngraphs_connected_sym.gp` (symmetric model) and `scripts/parameter_summary/ngraphs_connected_asym.gp` (asymmetric model), which are [`PARI/GP`](https://pari.math.u-bordeaux.fr/) scripts that can be used to compute the number of strongly connected graphs with arbitrary number of areas (if the desired number of areas is greater than 100, the maximum number the pre-computed table currently provides).
 `scripts/parameter_summary/get_internal_prob_pairs.R` processes a pair of MCC trees to summarize the posterior probability of the maximum a posteriori state (determined by the first provided tree) at each of the shared internal nodes between the trees.
+
+## <a name="program"></a>Modified BEAST Program
+We provide an executable for a modified version of the `BEAST` program, which implements a robust function for checking the irreducibility of a geographic model, required to perform the analyses under the asymmetric geographic model in our study.
+The modified source code (from which we compiled the executable) is located in [the `master` branch, commit `1561762`](https://github.com/jsigao/beast-mcmc/commit/1561762d8c14d17ec2fdc4b1547bc562d6af2658) of a forked `BEAST` source-code repository.
+Briefly, this executable can be run by invoking:
+```
+java -jar beast.jar -working ./analyses/sarscov2/phylogeography/ctmc/asymmetric/poisson_default/completeHistory_fixedMCC/sarscov2_041920_030820_coalExp_ucln_fine_completeHistory.xml
+```
+See [`BEAST` official tutorial website](http://beast.community/index.html) for further details about running `BEAST` analyses using a `Java` executable.
