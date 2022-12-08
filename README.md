@@ -4,7 +4,7 @@ This archive contains the materials that are necessary and sufficient to reprodu
 (2) the [`analyses`](#analyses) directory contains the `BEAST` phylodynamic analyses XML scripts;
 (3) the [`scripts`](#scripts) directory contains the `R` scripts for setting up and summarizing analyses, and;
 (4) the [`program`](#program) directory contains a modified version of the `BEAST` software package that implements a robust function for checking the irreducibility of a geographic model, required to perform the analyses under the asymmetric geographic model in our study.
-This archive is also available as a [Dryad repository](https://datadryad.org/stash/share/vTbeDwLq2uSL9rL4NCe_Cocp2bY7BgWTI2tUgoNrLDA).
+This archive is also available as a [Dryad repository](https://datadryad.org/stash/share/7Rd5kdTh7V66w9XefTuSeoui0LLv6LAwcY_5buMwUZU).
 
 ## <a name="data"></a>Data
 The `data` subdirectory contains the sequence alignment and the associated sampling time and location information.
